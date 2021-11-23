@@ -1,0 +1,2144 @@
+{
+  "version": 48,
+  "teams": [
+    {
+      "tid": 0,
+      "abbrev": "AKR",
+      "region": "Akron",
+      "name": "Indians",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/AkronPros.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.1887528170270452,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "AKR"
+    },
+    {
+      "tid": 1,
+      "abbrev": "BFF",
+      "region": "Buffalo",
+      "name": "Bisons",
+      "imgURL": "https://i.imgur.com/Lq3cAAK.jpg",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1135621564979648,
+      "stadiumCapacity": 70000,
+      "disabled": true,
+      "srID": "BFL"
+    },
+    {
+      "tid": 2,
+      "abbrev": "CAN",
+      "region": "Canton",
+      "name": "Bulldogs",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Bulldogs.gif",
+      "imgURLSmall": "https://alchetron.com/cdn/canton-bulldogs-f59dd795-50d1-49f0-9d9e-2400a4bf4e8-resize-750.png",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1136737086131026,
+      "stadiumCapacity": 70000,
+      "disabled": true,
+      "srID": "CAN"
+    },
+    {
+      "tid": 3,
+      "abbrev": "ARZ",
+      "region": "Arizona",
+      "name": "Cardinals",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/arizona_cardinals_2005-pres.png",
+      "colors": [
+        "#8b0000",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 7,
+      "pop": 1.0989221768839357,
+      "stadiumCapacity": 70000,
+      "disabled": false,
+      "srID": "CHG"
+    },
+    {
+      "tid": 4,
+      "abbrev": "CHT",
+      "region": "Chicago",
+      "name": "Tigers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/ChicagoC.gif",
+      "imgURLSmall": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/ChicagoC.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.2,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "CGO"
+    },
+    {
+      "tid": 5,
+      "abbrev": "CLV",
+      "region": "Cleveland",
+      "name": "Indians",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Cleveland20.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.19970527075317457,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "CLV"
+    },
+    {
+      "tid": 6,
+      "abbrev": "COL",
+      "region": "Cleveland",
+      "name": "Tigers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Panhandles.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.20151081437591356,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "COL"
+    },
+    {
+      "tid": 7,
+      "abbrev": "BRK",
+      "region": "Brooklyn",
+      "name": "Tigers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Dodgerslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.21724386200221346,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "DAY"
+    },
+    {
+      "tid": 8,
+      "abbrev": "CHI",
+      "region": "Chicago",
+      "name": "Bears",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/chicago_bears_1974-pres.png",
+      "colors": [
+        "#000080",
+        "#ffffff",
+        "#ff4500"
+      ],
+      "jersey": "football3",
+      "cid": 1,
+      "did": 5,
+      "pop": 0.24709080806002243,
+      "stadiumCapacity": 25000,
+      "disabled": false,
+      "srID": "DEC"
+    },
+    {
+      "tid": 9,
+      "abbrev": "DTR",
+      "region": "Detroit",
+      "name": "Tigers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/DetroitHeralds.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.19600110640396284,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "DTR"
+    },
+    {
+      "tid": 10,
+      "abbrev": "HAM",
+      "region": "Hammond",
+      "name": "Pros",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Hammondlogo.gif",
+      "imgURLSmall": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Hammondlogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.1984642773690446,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "HAM"
+    },
+    {
+      "tid": 11,
+      "abbrev": "ROC",
+      "region": "Rochester",
+      "name": "Jeffersons",
+      "imgURL": "https://th.bing.com/th/id/R.5b8e74db3eef7017d62734ce37d9f0f0?rik=jXfb5zrCnaOX5g&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140310191920%2fprosportsteams%2fimages%2f0%2f0e%2fROJ.jpg&ehk=LsH9jLCnovQCEh5VigWx0wcjquXFCv8KNHK9VZq5c0E%3d&risl=&pid=ImgRaw&r=0",
+      "imgURLSmall": "https://th.bing.com/th/id/R.5b8e74db3eef7017d62734ce37d9f0f0?rik=jXfb5zrCnaOX5g&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140310191920%2fprosportsteams%2fimages%2f0%2f0e%2fROJ.jpg&ehk=LsH9jLCnovQCEh5VigWx0wcjquXFCv8KNHK9VZq5c0E%3d&risl=&pid=ImgRaw&r=0",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.2007386137023869,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "ROC"
+    },
+    {
+      "tid": 12,
+      "abbrev": "RII",
+      "region": "Rock Island",
+      "name": "Independants",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/RockIslandIndependants18.png/150px-RockIslandIndependants18.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/RockIslandIndependants18.png/150px-RockIslandIndependants18.png",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.196122581517349,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "RII"
+    },
+    {
+      "tid": 13,
+      "abbrev": "MUN",
+      "region": "Muncie",
+      "name": "Flyers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/MuncieM.gif",
+      "imgURLSmall": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/MuncieM.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.19852243121766378,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "MUN"
+    },
+    {
+      "tid": 14,
+      "abbrev": "CNC",
+      "region": "Cincinnati",
+      "name": "Celts",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Celts.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1027608421880992,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 15,
+      "abbrev": "EVA",
+      "region": "Evansville",
+      "name": "Crimson Giants",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/EvansvilleE.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1171036702932153,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 16,
+      "abbrev": "GNB",
+      "region": "Green Bay",
+      "name": "Packers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/green_bay_packers_1980-pres.png",
+      "colors": [
+        "#006400",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 5,
+      "pop": 0.8426912999356235,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 17,
+      "abbrev": "LOU",
+      "region": "Louisville",
+      "name": "Brecks",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BrecksB.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0904309032682644,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 18,
+      "abbrev": "MIE",
+      "region": "Minneapolis",
+      "name": "Red Jackets",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Marineslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.093082087389698,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 19,
+      "abbrev": "TON",
+      "region": "Tonawanda",
+      "name": "Kardex",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Kardex.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1071842739673365,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 20,
+      "abbrev": "SEN",
+      "region": "Washington",
+      "name": "Senators",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Senslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0828173584658678,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 21,
+      "abbrev": "BRG",
+      "region": "New York",
+      "name": "Brickley Giants",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/NYB.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.11434581704124,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 22,
+      "abbrev": "MIL",
+      "region": "Milwaukee",
+      "name": "Badgers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Badgerslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.15128904600989,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 23,
+      "abbrev": "OOR",
+      "region": "Oorang",
+      "name": "Indians",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Ooranglogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.110005154956067,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 24,
+      "abbrev": "RAC",
+      "region": "Racine",
+      "name": "Tornadoes",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/RacineLegionlogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0910258042537668,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 25,
+      "abbrev": "TOL",
+      "region": "Toledo",
+      "name": "Maroons",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/ToledoT.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.072191092350762,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 26,
+      "abbrev": "DUL",
+      "region": "Duluth",
+      "name": "Eskimos",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Eskimoslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.121656294200678,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 27,
+      "abbrev": "SLO",
+      "region": "St. Louis",
+      "name": "All-Stars",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/STL.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0883317469531928,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 28,
+      "abbrev": "WOL",
+      "region": "Detroit",
+      "name": "Wolverines",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/DWlogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0669572480817424,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 29,
+      "abbrev": "FRA",
+      "region": "Frankford",
+      "name": "Yellow Jackets",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/FrankfordYellowjackets1.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0444587346312149,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 30,
+      "abbrev": "KCI",
+      "region": "Kansas City",
+      "name": "Cowboys",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/KC-3.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0655818961078496,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 31,
+      "abbrev": "KEN",
+      "region": "Kenosha",
+      "name": "Maroons",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/KenoshaK.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1096714781714543,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 32,
+      "abbrev": "DRT",
+      "region": "Detroit",
+      "name": "Panthers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Pantherslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.131572396849453,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 33,
+      "abbrev": "NYG",
+      "region": "New York",
+      "name": "Giants",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_york_giants_2000-pres.png",
+      "colors": [
+        "#0000ad",
+        "#ffffff",
+        "#ff0000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 4,
+      "pop": 1.0110405537570668,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 34,
+      "abbrev": "PRO",
+      "region": "Providence",
+      "name": "Steamrollers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/rollerslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0809742935073732,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 35,
+      "abbrev": "BUL",
+      "region": "Boston",
+      "name": "Bulldogs",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/bulldog-logo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.080430989994187,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 36,
+      "abbrev": "BRK",
+      "region": "Brooklyn",
+      "name": "Lions",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BLions.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.120475384585077,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 37,
+      "abbrev": "HAR",
+      "region": "Hartford",
+      "name": "Blues",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BluesH.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.085684700268491,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 38,
+      "abbrev": "BUC",
+      "region": "Los Angeles",
+      "name": "Buccaneers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/LABuccaneers26.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1127056373851079,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 39,
+      "abbrev": "LIS",
+      "region": "Louisville",
+      "name": "Colonels",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BrecksB.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1122090906957645,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 40,
+      "abbrev": "NYY",
+      "region": "New York",
+      "name": "Yankees",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/YankeesNY-3.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0690358009482013,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 41,
+      "abbrev": "ORA",
+      "region": "Orange",
+      "name": "Tornadoes",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Tornadoeslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1000706425934001,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 42,
+      "abbrev": "SIS",
+      "region": "Staten Island",
+      "name": "Stapletons",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Stapes.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1134558164128732,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 43,
+      "abbrev": "DET",
+      "region": "Detroit",
+      "name": "Lions",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/detroit_lions-2017-pres.png",
+      "colors": [
+        "#009acd",
+        "#ffffff",
+        "#c0c0c0"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 5,
+      "pop": 0.9942010728234534,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 44,
+      "abbrev": "CLI",
+      "region": "Cleveland",
+      "name": "Indians",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Indians31.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0866257289744004,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 45,
+      "abbrev": "WAS",
+      "region": "Washington",
+      "name": "Football Team",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/07/washington_football_team_2020-pres-1.png",
+      "colors": [
+        "#800000",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 4,
+      "pop": 1.073053391159317,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 46,
+      "abbrev": "PHI",
+      "region": "Philadelphia",
+      "name": "Eagles",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/philadelphia_eagles_1996-pres.png",
+      "colors": [
+        "#007100",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 4,
+      "pop": 1.1256661156464007,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 47,
+      "abbrev": "PIT",
+      "region": "Pittsburgh",
+      "name": "Steelers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/05/pittsburgh_steelers_2002-pres.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.302786103250352,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 48,
+      "abbrev": "RED",
+      "region": "Cincinnati",
+      "name": "Reds",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Redslogo-1.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.127339556504069,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 49,
+      "abbrev": "GUN",
+      "region": "St. Louis",
+      "name": "Gunners",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Gunnerslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.098026998725972,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 50,
+      "abbrev": "LAR",
+      "region": "Los Angeles",
+      "name": "Rams",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/03/los_angeles_rams_2020-pres.png",
+      "colors": [
+        "#0000ff",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 7,
+      "pop": 1.0438660175777592,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 51,
+      "abbrev": "P-P",
+      "region": "Phil-Pitt",
+      "name": "Steagles",
+      "imgURL": "https://content.sportslogos.net/logos/7/4932/full/5525_phil-pitt_combine-primary-1943.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0933531283605182,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 52,
+      "abbrev": "YAN",
+      "region": "Boston",
+      "name": "Yanks",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BostonYankslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1139954850880232,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 53,
+      "abbrev": "C-P",
+      "region": "Card-Pitt",
+      "name": " ",
+      "imgURL": "https://th.bing.com/th/id/R.3d5d3fecdfeaa45ef95787d85ac0cfd3?rik=%2fvj2b1czDoxtdQ&riu=http%3a%2f%2fcontent.sportslogos.net%2flogos%2f7%2f4933%2ffull%2f6903_card-pitt_-primary-1944.gif&ehk=P1kSgTGi1e%2bj434W%2bofA2bCMGq4sTjZmYDua0POunx0%3d&risl=&pid=ImgRaw&r=0&adlt=strict",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.1113153121722208,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 54,
+      "abbrev": "YNK",
+      "region": "The Yanks",
+      "name": " ",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BostonYanks48a.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0597177296321916,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 55,
+      "abbrev": "TEX",
+      "region": "Dallas",
+      "name": "Texans",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/DalTexanslogo.gif",
+      "colors": [
+        "#0000ff",
+        "#ffffff",
+        "#a5a5a5"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.0567254203544922,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 56,
+      "abbrev": "CLE",
+      "region": "Cleveland",
+      "name": "Browns",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cleveland_browns_2015-pres.png",
+      "colors": [
+        "#8b4513",
+        "#ffffff",
+        "#ff4500"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.065162075097358,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 57,
+      "abbrev": "SFO",
+      "region": "San Francisco",
+      "name": "49ers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_francisco_49ers_2009-pres.png",
+      "colors": [
+        "#be0000",
+        "#ffffff",
+        "#cdbe70"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 7,
+      "pop": 0.989440500695867,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 58,
+      "abbrev": "BLM",
+      "region": "Baltimore",
+      "name": "Colts",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/ColtsAAFClogo.gif",
+      "colors": [
+        "#067900",
+        "#ffffff",
+        "#a4a4a4"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.0929800793823292,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 59,
+      "abbrev": "IND",
+      "region": "Indianapolis",
+      "name": "Colts",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/indianapolis_colts_2002-pres.png",
+      "colors": [
+        "#ffffff",
+        "#4646ff",
+        "#4646ff"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 2,
+      "pop": 1.2003170574699453,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 60,
+      "abbrev": "DAL",
+      "region": "Dallas",
+      "name": "Cowboys",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/dallas_cowboys_1964-pres.png",
+      "colors": [
+        "#0000a2",
+        "#ffffff",
+        "#a2b5cd"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 4,
+      "pop": 1.128075188603485,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 61,
+      "abbrev": "MIN",
+      "region": "Minnesota",
+      "name": "Vikings",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/09/minnesota_vikings_2013-pres.png",
+      "colors": [
+        "#800080",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 5,
+      "pop": 1.006403664604093,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 62,
+      "abbrev": "ATL",
+      "region": "Atlanta",
+      "name": "Falcons",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/atlanta_falcons_2003-pres.png",
+      "colors": [
+        "#ff0000",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 6,
+      "pop": 1.0054042637486258,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 63,
+      "abbrev": "NWE",
+      "region": "New England",
+      "name": "Patriots",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/new_england_patriots_2000-pres.png",
+      "colors": [
+        "#0000ab",
+        "#ffffff",
+        "#ff0000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1577125783484046,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 64,
+      "abbrev": "BUF",
+      "region": "Buffalo",
+      "name": "Bills",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/buffalo_bills_1974-pres.png",
+      "colors": [
+        "#0000c6",
+        "#ffffff",
+        "#ff0000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.2411130248468676,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 65,
+      "abbrev": "TEN",
+      "region": "Tennessee",
+      "name": "Titans",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/tennessee_titans_1999-pres.png",
+      "colors": [
+        "#000a8d",
+        "#ffffff",
+        "#add8e6"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 2,
+      "pop": 0.9316504029896372,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 66,
+      "abbrev": "MIA",
+      "region": "Miami",
+      "name": "Dolphins",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/miami_dolphins_2018-pres.png",
+      "colors": [
+        "#00ced1",
+        "#ffffff",
+        "#ffa500"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0027430081902142,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 67,
+      "abbrev": "NYJ",
+      "region": "New York",
+      "name": "Jets",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2019/04/new_york_jets_2019-pres.png",
+      "colors": [
+        "#ffffff",
+        "#025600",
+        "#025600"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0425531354305724,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 68,
+      "abbrev": "DEN",
+      "region": "Denver",
+      "name": "Broncos",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/denver_broncos_1997-pres.png",
+      "colors": [
+        "#0000a6",
+        "#ffffff",
+        "#ff4500"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 3,
+      "pop": 1.20709281012639,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 69,
+      "abbrev": "KAN",
+      "region": "Kansas City",
+      "name": "Chiefs",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/kansas_city_chiefs_1972-pres.png",
+      "colors": [
+        "#ff0000",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 3,
+      "pop": 1.1052772897059713,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 70,
+      "abbrev": "LVR",
+      "region": "Las Vegas",
+      "name": "Raiders",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/02/las_vegas_raiders_2020-present-1.png",
+      "colors": [
+        "#c0c0c0",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 3,
+      "pop": 1.0389399502103605,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 71,
+      "abbrev": "LAC",
+      "region": "Los Angeles",
+      "name": "Chargers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/03/los_angeles-chargers_2020-pres.png",
+      "colors": [
+        "#000098",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 3,
+      "pop": 1.1740513699637596,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 72,
+      "abbrev": "NOR",
+      "region": "New Orleans",
+      "name": "Saints",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/new_orleans_saints_2017-pres.png",
+      "colors": [
+        "#cdbe70",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 6,
+      "pop": 1.1029645397135597,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 73,
+      "abbrev": "CIN",
+      "region": "Cincinnati",
+      "name": "Bengals",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2021/04/cincinnati_bengals_2021-pres.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#fa6c00"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.0915973103475247,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 74,
+      "abbrev": "TAM",
+      "region": "Tampa Bay",
+      "name": "Buccaneers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/04/tampa_bay_buccaneers_2020-pres.png",
+      "colors": [
+        "#b70000",
+        "#ffffff",
+        "#6e6e6e"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 6,
+      "pop": 1.252731328395688,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 75,
+      "abbrev": "SEA",
+      "region": "Seattle",
+      "name": "Seahawks",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/seattle_seahawks_2012-pres.png",
+      "colors": [
+        "#000d85",
+        "#ffffff",
+        "#00dc0b"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 7,
+      "pop": 1.2280657999901197,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 76,
+      "abbrev": "JAX",
+      "region": "Jacksonville",
+      "name": "Jaguars",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/jacksonville_jaguars_2013-pres.png",
+      "colors": [
+        "#259c79",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 2,
+      "pop": 1.0376794388745751,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 77,
+      "abbrev": "CAR",
+      "region": "Carolina",
+      "name": "Panthers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/carolina_panthers_2012-pres.png",
+      "colors": [
+        "#3c96ff",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 6,
+      "pop": 1.0282039464481416,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 78,
+      "abbrev": "BAL",
+      "region": "Baltimore",
+      "name": "Ravens",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/baltimore_ravens_1999-pres.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#870097"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.0769734210692186,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 79,
+      "abbrev": "HOU",
+      "region": "Houston",
+      "name": "Texans",
+      "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+      "colors": [
+        "#000092",
+        "#ffffff",
+        "#d10000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 2,
+      "pop": 1.112473477809369,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    }
+  ],
+  "gameAttributes": {
+    "aiJerseyRetirement": true,
+    "aiTradesFactor": 1,
+    "allStarGame": null,
+    "autoDeleteOldBoxScores": true,
+    "blockFactor": 1,
+    "brotherRate": 0.005,
+    "budget": true,
+    "challengeFiredLuxuryTax": false,
+    "challengeFiredMissPlayoffs": false,
+    "challengeLoseBestPlayer": false,
+    "challengeNoDraftPicks": false,
+    "challengeNoFreeAgents": false,
+    "challengeNoRatings": false,
+    "challengeNoTrades": false,
+    "challengeThanosMode": false,
+    "confs": [
+      {
+        "start": null,
+        "value": [
+          {
+            "cid": 0,
+            "name": ""
+          }
+        ]
+      },
+      {
+        "start": 1934,
+        "value": [
+          {
+            "cid": 0,
+            "name": "National Football League"
+          }
+        ]
+      },
+      {
+        "start": 1951,
+        "value": [
+          {
+            "cid": 0,
+            "name": "National Football League"
+          }
+        ]
+      },
+      {
+        "start": 1967,
+        "value": [
+          {
+            "cid": 0,
+            "name": "National Football League"
+          },
+          {
+            "cid": 1,
+            "name": "American Football League"
+          }
+        ]
+      },
+      {
+        "start": 1968,
+        "value": [
+          {
+            "cid": 0,
+            "name": "National Football League"
+          },
+          {
+            "cid": 1,
+            "name": "American Football League"
+          }
+        ]
+      },
+      {
+        "start": 1971,
+        "value": [
+          {
+            "cid": 0,
+            "name": "American Football Conference"
+          },
+          {
+            "cid": 1,
+            "name": "National Football Conference"
+          }
+        ]
+      },
+      {
+        "start": 1981,
+        "value": [
+          {
+            "cid": 0,
+            "name": "American Football Conference"
+          },
+          {
+            "cid": 1,
+            "name": "National Football Conference"
+          }
+        ]
+      },
+      {
+        "start": 1991,
+        "value": [
+          {
+            "cid": 0,
+            "name": "American Football Conference"
+          },
+          {
+            "cid": 1,
+            "name": "National Football Conference"
+          }
+        ]
+      },
+      {
+        "start": 2003,
+        "value": [
+          {
+            "cid": 0,
+            "name": "American Football Conference"
+          },
+          {
+            "cid": 1,
+            "name": "National Football Conference"
+          }
+        ]
+      },
+      {
+        "start": 2011,
+        "value": [
+          {
+            "cid": 0,
+            "name": "American Football Conference"
+          },
+          {
+            "cid": 1,
+            "name": "National Football Conference"
+          }
+        ]
+      }
+    ],
+    "daysLeft": 0,
+    "defaultStadiumCapacity": 70000,
+    "difficulty": 0,
+    "divs": [
+      {
+        "start": null,
+        "value": [
+          {
+            "did": 0,
+            "cid": 0,
+            "name": ""
+          }
+        ]
+      },
+      {
+        "start": 1934,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 1950,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "American"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "National"
+          }
+        ]
+      },
+      {
+        "start": 1951,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "American"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "National"
+          }
+        ]
+      },
+      {
+        "start": 1953,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 1967,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "West"
+          },
+          {
+            "cid": 1,
+            "did": 2,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 3,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 1968,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "Capitol"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "Century"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "Central"
+          },
+          {
+            "cid": 0,
+            "did": 3,
+            "name": "Coastal"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 1971,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "Central"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "West"
+          },
+          {
+            "cid": 1,
+            "did": 3,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "Central"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 1981,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "Central"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "West"
+          },
+          {
+            "cid": 1,
+            "did": 3,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "Central"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 1991,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "Central"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "West"
+          },
+          {
+            "cid": 1,
+            "did": 3,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "Central"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 2003,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "North"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "South"
+          },
+          {
+            "cid": 0,
+            "did": 3,
+            "name": "West"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "North"
+          },
+          {
+            "cid": 1,
+            "did": 6,
+            "name": "South"
+          },
+          {
+            "cid": 1,
+            "did": 7,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 2011,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "North"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "South"
+          },
+          {
+            "cid": 0,
+            "did": 3,
+            "name": "West"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "North"
+          },
+          {
+            "cid": 1,
+            "did": 6,
+            "name": "South"
+          },
+          {
+            "cid": 1,
+            "did": 7,
+            "name": "West"
+          }
+        ]
+      }
+    ],
+    "draftAges": [
+      21,
+      23
+    ],
+    "draftType": "noLottery",
+    "elam": false,
+    "elamASG": true,
+    "elamMinutes": 4,
+    "elamPoints": 8,
+    "equalizeRegions": false,
+    "expansionDraft": {
+      "phase": "setup"
+    },
+    "fantasyPoints": "standard",
+    "forceRetireAge": 0,
+    "foulRateFactor": 1,
+    "foulsNeededToFoulOut": 6,
+    "foulsUntilBonus": [
+      5,
+      4,
+      2
+    ],
+    "gameOver": false,
+    "godMode": false,
+    "godModeInPast": false,
+    "gracePeriodEnd": 1948,
+    "hardCap": true,
+    "hideDisabledTeams": false,
+    "hofFactor": 1.25,
+    "homeCourtAdvantage": 1,
+    "inflationAvg": 0,
+    "inflationMax": 0,
+    "inflationMin": 0,
+    "inflationStd": 0,
+    "injuryRate": 0.002,
+    "lowestDifficulty": 0,
+    "luxuryPayroll": 100000,
+    "luxuryTax": 1.5,
+    "maxContract": 28000,
+    "maxContractLength": 5,
+    "maxRosterSize": 55,
+    "minContract": 650,
+    "minContractLength": 1,
+    "minPayroll": 150,
+    "minRosterSize": 44,
+    "minimumPayroll": 162500,
+    "numDraftRounds": 7,
+    "numGames": 17,
+    "numGamesConf": null,
+    "numGamesDiv": null,
+    "numGamesPlayoffSeries": [
+      {
+        "start": null,
+        "value": []
+      },
+      {
+        "start": 1934,
+        "value": [
+          1
+        ]
+      },
+      {
+        "start": 1951,
+        "value": [
+          1
+        ]
+      },
+      {
+        "start": 1967,
+        "value": [
+          1,
+          1
+        ]
+      },
+      {
+        "start": 1968,
+        "value": [
+          1,
+          1
+        ]
+      },
+      {
+        "start": 1971,
+        "value": [
+          1,
+          1
+        ]
+      },
+      {
+        "start": 1979,
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "start": 1981,
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "start": 1991,
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "start": 2003,
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "start": 2011,
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "numPeriods": 4,
+    "numPlayersDunk": 4,
+    "numPlayersOnCourt": 11,
+    "numPlayersThree": 8,
+    "numPlayoffByes": 0,
+    "numSeasonsFutureDraftPicks": 4,
+    "orbFactor": 1,
+    "otherTeamsWantToHire": false,
+    "otl": false,
+    "pace": 100,
+    "phase": 0,
+    "playIn": false,
+    "playerMoodTraits": true,
+    "playersRefuseToNegotiate": true,
+    "playoffsByConf": true,
+    "playoffsNumTeamsDiv": 1,
+    "playoffsReseed": true,
+    "pointsFormula": "",
+    "quarterLength": 15,
+    "realPlayerDeterminism": 0,
+    "rookieContractLengths": [
+      3,
+      2
+    ],
+    "rookiesCanRefuse": true,
+    "salaryCap": 182500,
+    "season": 2022,
+    "sonRate": 0.005,
+    "spectator": false,
+    "startingSeason": 2022,
+    "stealFactor": 1,
+    "stopOnInjury": false,
+    "stopOnInjuryGames": 1,
+    "threePointAccuracyFactor": 1,
+    "threePointTendencyFactor": 1,
+    "threePointers": true,
+    "tiebreakers": [
+      "headToHeadRecord",
+      "divRecordIfSame",
+      "commonOpponentsRecord",
+      "confRecordIfSame",
+      "strengthOfVictory",
+      "strengthOfSchedule",
+      "marginOfVictory",
+      "coinFlip"
+    ],
+    "ties": true,
+    "tradeDeadline": 0.6,
+    "tragicDeathRate": 0.001,
+    "turnoverFactor": 1,
+    "twoPointAccuracyFactor": 1,
+    "userTid": [
+      {
+        "start": null,
+        "value": 7
+      },
+      {
+        "start": 1946,
+        "value": 46
+      }
+    ],
+    "userTids": [
+      46
+    ]
+  },
+  "scheduledEvents": [
+    {
+      "type": "gameAttributes",
+      "season": 2022,
+      "phase": 4,
+      "id": 476,
+      "info": {
+        "salaryCap": 208200,
+        "minimumPayroll": 188200,
+        "minContract": 660,
+        "maxContract": 30000
+      }
+    }
+  ]
+}

@@ -1,0 +1,5144 @@
+{
+  "version": 48,
+  "teams": [
+    {
+      "tid": 0,
+      "abbrev": "AKR",
+      "region": "Akron",
+      "name": "Indians",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/AkronPros.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.1887528170270452,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "AKR"
+    },
+    {
+      "tid": 1,
+      "abbrev": "BFF",
+      "region": "Buffalo",
+      "name": "Bisons",
+      "imgURL": "https://i.imgur.com/Lq3cAAK.jpg",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1135621564979648,
+      "stadiumCapacity": 70000,
+      "disabled": true,
+      "srID": "BFL"
+    },
+    {
+      "tid": 2,
+      "abbrev": "CAN",
+      "region": "Canton",
+      "name": "Bulldogs",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Bulldogs.gif",
+      "imgURLSmall": "https://alchetron.com/cdn/canton-bulldogs-f59dd795-50d1-49f0-9d9e-2400a4bf4e8-resize-750.png",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1136737086131026,
+      "stadiumCapacity": 70000,
+      "disabled": true,
+      "srID": "CAN"
+    },
+    {
+      "tid": 3,
+      "abbrev": "CRD",
+      "region": "St. Louis",
+      "name": "Cardinals",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/st_lous_cardinals_1970-1987.png",
+      "colors": [
+        "#ffffff",
+        "#8b0000",
+        "#8b0000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 3,
+      "pop": 1.097038335664253,
+      "stadiumCapacity": 70000,
+      "disabled": false,
+      "srID": "CHG"
+    },
+    {
+      "tid": 4,
+      "abbrev": "CHT",
+      "region": "Chicago",
+      "name": "Tigers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/ChicagoC.gif",
+      "imgURLSmall": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/ChicagoC.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.2,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "CGO"
+    },
+    {
+      "tid": 5,
+      "abbrev": "CLV",
+      "region": "Cleveland",
+      "name": "Indians",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Cleveland20.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.19970527075317457,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "CLV"
+    },
+    {
+      "tid": 6,
+      "abbrev": "COL",
+      "region": "Cleveland",
+      "name": "Tigers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Panhandles.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.20151081437591356,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "COL"
+    },
+    {
+      "tid": 7,
+      "abbrev": "BRK",
+      "region": "Brooklyn",
+      "name": "Tigers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Dodgerslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.21724386200221346,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "DAY"
+    },
+    {
+      "tid": 8,
+      "abbrev": "CHI",
+      "region": "Chicago",
+      "name": "Bears",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/chicago_bears_1962-1972.png",
+      "colors": [
+        "#000080",
+        "#ffffff",
+        "#ff4500"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 2,
+      "pop": 0.20201424945746102,
+      "stadiumCapacity": 25000,
+      "disabled": false,
+      "srID": "DEC"
+    },
+    {
+      "tid": 9,
+      "abbrev": "DTR",
+      "region": "Detroit",
+      "name": "Tigers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/DetroitHeralds.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.19600110640396284,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "DTR"
+    },
+    {
+      "tid": 10,
+      "abbrev": "HAM",
+      "region": "Hammond",
+      "name": "Pros",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Hammondlogo.gif",
+      "imgURLSmall": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Hammondlogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.1984642773690446,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "HAM"
+    },
+    {
+      "tid": 11,
+      "abbrev": "ROC",
+      "region": "Rochester",
+      "name": "Jeffersons",
+      "imgURL": "https://th.bing.com/th/id/R.5b8e74db3eef7017d62734ce37d9f0f0?rik=jXfb5zrCnaOX5g&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140310191920%2fprosportsteams%2fimages%2f0%2f0e%2fROJ.jpg&ehk=LsH9jLCnovQCEh5VigWx0wcjquXFCv8KNHK9VZq5c0E%3d&risl=&pid=ImgRaw&r=0",
+      "imgURLSmall": "https://th.bing.com/th/id/R.5b8e74db3eef7017d62734ce37d9f0f0?rik=jXfb5zrCnaOX5g&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140310191920%2fprosportsteams%2fimages%2f0%2f0e%2fROJ.jpg&ehk=LsH9jLCnovQCEh5VigWx0wcjquXFCv8KNHK9VZq5c0E%3d&risl=&pid=ImgRaw&r=0",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.2007386137023869,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "ROC"
+    },
+    {
+      "tid": 12,
+      "abbrev": "RII",
+      "region": "Rock Island",
+      "name": "Independants",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/RockIslandIndependants18.png/150px-RockIslandIndependants18.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/RockIslandIndependants18.png/150px-RockIslandIndependants18.png",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.196122581517349,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "RII"
+    },
+    {
+      "tid": 13,
+      "abbrev": "MUN",
+      "region": "Muncie",
+      "name": "Flyers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/MuncieM.gif",
+      "imgURLSmall": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/MuncieM.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.19852243121766378,
+      "stadiumCapacity": 25000,
+      "disabled": true,
+      "srID": "MUN"
+    },
+    {
+      "tid": 14,
+      "abbrev": "CNC",
+      "region": "Cincinnati",
+      "name": "Celts",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Celts.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1027608421880992,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 15,
+      "abbrev": "EVA",
+      "region": "Evansville",
+      "name": "Crimson Giants",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/EvansvilleE.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1171036702932153,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 16,
+      "abbrev": "GNB",
+      "region": "Green Bay",
+      "name": "Packers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/green_bay_packers_1961-1979.png",
+      "colors": [
+        "#006400",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 4,
+      "pop": 0.965026367055625,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 17,
+      "abbrev": "LOU",
+      "region": "Louisville",
+      "name": "Brecks",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BrecksB.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0904309032682644,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 18,
+      "abbrev": "MIE",
+      "region": "Minneapolis",
+      "name": "Red Jackets",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Marineslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.093082087389698,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 19,
+      "abbrev": "TON",
+      "region": "Tonawanda",
+      "name": "Kardex",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Kardex.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1071842739673365,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 20,
+      "abbrev": "SEN",
+      "region": "Washington",
+      "name": "Senators",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Senslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0828173584658678,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 21,
+      "abbrev": "BRG",
+      "region": "New York",
+      "name": "Brickley Giants",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/NYB.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.11434581704124,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 22,
+      "abbrev": "MIL",
+      "region": "Milwaukee",
+      "name": "Badgers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Badgerslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.15128904600989,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 23,
+      "abbrev": "OOR",
+      "region": "Oorang",
+      "name": "Indians",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Ooranglogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.110005154956067,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 24,
+      "abbrev": "RAC",
+      "region": "Racine",
+      "name": "Tornadoes",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/RacineLegionlogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0910258042537668,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 25,
+      "abbrev": "TOL",
+      "region": "Toledo",
+      "name": "Maroons",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/ToledoT.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.072191092350762,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 26,
+      "abbrev": "DUL",
+      "region": "Duluth",
+      "name": "Eskimos",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Eskimoslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.121656294200678,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 27,
+      "abbrev": "SLO",
+      "region": "St. Louis",
+      "name": "All-Stars",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/STL.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0883317469531928,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 28,
+      "abbrev": "WOL",
+      "region": "Detroit",
+      "name": "Wolverines",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/DWlogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0669572480817424,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 29,
+      "abbrev": "FRA",
+      "region": "Frankford",
+      "name": "Yellow Jackets",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/FrankfordYellowjackets1.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0444587346312149,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 30,
+      "abbrev": "KCI",
+      "region": "Kansas City",
+      "name": "Cowboys",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/KC-3.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0655818961078496,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 31,
+      "abbrev": "KEN",
+      "region": "Kenosha",
+      "name": "Maroons",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/KenoshaK.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1096714781714543,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 32,
+      "abbrev": "DRT",
+      "region": "Detroit",
+      "name": "Panthers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Pantherslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.131572396849453,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 33,
+      "abbrev": "NYG",
+      "region": "New York",
+      "name": "Giants",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_york_giants_1961-1974.png",
+      "colors": [
+        "#0000ff",
+        "#ffffff",
+        "#ff0000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 3,
+      "pop": 1.107750258913448,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 34,
+      "abbrev": "PRO",
+      "region": "Providence",
+      "name": "Steamrollers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/rollerslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0809742935073732,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 35,
+      "abbrev": "BUL",
+      "region": "Boston",
+      "name": "Bulldogs",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/bulldog-logo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.080430989994187,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 36,
+      "abbrev": "BRK",
+      "region": "Brooklyn",
+      "name": "Lions",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BLions.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.120475384585077,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 37,
+      "abbrev": "HAR",
+      "region": "Hartford",
+      "name": "Blues",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BluesH.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.085684700268491,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 38,
+      "abbrev": "BUC",
+      "region": "Los Angeles",
+      "name": "Buccaneers",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/LABuccaneers26.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1127056373851079,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 39,
+      "abbrev": "LIS",
+      "region": "Louisville",
+      "name": "Colonels",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BrecksB.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1122090906957645,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 40,
+      "abbrev": "NYY",
+      "region": "New York",
+      "name": "Yankees",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/YankeesNY-3.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0690358009482013,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 41,
+      "abbrev": "ORA",
+      "region": "Orange",
+      "name": "Tornadoes",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Tornadoeslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1000706425934001,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 42,
+      "abbrev": "SIS",
+      "region": "Staten Island",
+      "name": "Stapletons",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Stapes.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1134558164128732,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 43,
+      "abbrev": "DET",
+      "region": "Detroit",
+      "name": "Lions",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/detroit_lions_1970-2002.png",
+      "colors": [
+        "#009acd",
+        "#ffffff",
+        "#c0c0c0"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 4,
+      "pop": 1.1026011617296956,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 44,
+      "abbrev": "CLI",
+      "region": "Cleveland",
+      "name": "Indians",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Indians31.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0866257289744004,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 45,
+      "abbrev": "WAS",
+      "region": "Washington",
+      "name": "Redskins",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/washington_redskins_1970-1971.png",
+      "colors": [
+        "#800000",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 3,
+      "pop": 1.11075860744214,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 46,
+      "abbrev": "PHI",
+      "region": "Philadelphia",
+      "name": "Eagles",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/philadelphia_eagles_1969-1972.png",
+      "colors": [
+        "#ffffff",
+        "#008000",
+        "#008000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 3,
+      "pop": 1.0974593089414528,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 47,
+      "abbrev": "PIT",
+      "region": "Pittsburgh",
+      "name": "Steelers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2016/SLH/nfl_primary/pittsburgh_steelers.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.177210205053287,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 48,
+      "abbrev": "RED",
+      "region": "Cincinnati",
+      "name": "Reds",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Redslogo-1.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.127339556504069,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 49,
+      "abbrev": "GUN",
+      "region": "St. Louis",
+      "name": "Gunners",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/Gunnerslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.098026998725972,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 50,
+      "abbrev": "LAR",
+      "region": "Los Angeles",
+      "name": "Rams",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/los_angeles_rams_1970-1982.png",
+      "colors": [
+        "#ffffff",
+        "#0000ff",
+        "#0000ff"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 5,
+      "pop": 1.1474072125280854,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 51,
+      "abbrev": "P-P",
+      "region": "Phil-Pitt",
+      "name": "Steagles",
+      "imgURL": "https://content.sportslogos.net/logos/7/4932/full/5525_phil-pitt_combine-primary-1943.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0933531283605182,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 52,
+      "abbrev": "YAN",
+      "region": "Boston",
+      "name": "Yanks",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BostonYankslogo.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1139954850880232,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 53,
+      "abbrev": "C-P",
+      "region": "Card-Pitt",
+      "name": " ",
+      "imgURL": "https://th.bing.com/th/id/R.3d5d3fecdfeaa45ef95787d85ac0cfd3?rik=%2fvj2b1czDoxtdQ&riu=http%3a%2f%2fcontent.sportslogos.net%2flogos%2f7%2f4933%2ffull%2f6903_card-pitt_-primary-1944.gif&ehk=P1kSgTGi1e%2bj434W%2bofA2bCMGq4sTjZmYDua0POunx0%3d&risl=&pid=ImgRaw&r=0&adlt=strict",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.1113153121722208,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 54,
+      "abbrev": "YNK",
+      "region": "The Yanks",
+      "name": " ",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/BostonYanks48a.gif",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0597177296321916,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 55,
+      "abbrev": "TEX",
+      "region": "Dallas",
+      "name": "Texans",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/DalTexanslogo.gif",
+      "colors": [
+        "#0000ff",
+        "#ffffff",
+        "#a5a5a5"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.0567254203544922,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 56,
+      "abbrev": "CLE",
+      "region": "Cleveland",
+      "name": "Browns",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cleveland_browns_1970-1985.png",
+      "colors": [
+        "#8b4513",
+        "#ffffff",
+        "#ff4500"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.1700362411919958,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 57,
+      "abbrev": "SFO",
+      "region": "San Francisco",
+      "name": "49ers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_francisco_49ers_1968-1995.png",
+      "colors": [
+        "#ff0000",
+        "#ffffff",
+        "#cdbe70"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 5,
+      "pop": 1.144795241591132,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 58,
+      "abbrev": "BLM",
+      "region": "Baltimore",
+      "name": "Colts",
+      "imgURL": "https://sportsecyclopedia.com/wp-content/uploads/2019/10/ColtsAAFClogo.gif",
+      "colors": [
+        "#067900",
+        "#ffffff",
+        "#a4a4a4"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.0929800793823292,
+      "stadiumCapacity": 70000,
+      "disabled": true
+    },
+    {
+      "tid": 59,
+      "abbrev": "CLT",
+      "region": "Baltimore",
+      "name": "Colts",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/baltimore_colts_1961-1978.png",
+      "colors": [
+        "#ffffff",
+        "#4646ff",
+        "#4646ff"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0891825574245295,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 60,
+      "abbrev": "DAL",
+      "region": "Dallas",
+      "name": "Cowboys",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/dallas_cowboys_1964-pres.png",
+      "colors": [
+        "#4646ff",
+        "#ffffff",
+        "#a2b5cd"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 3,
+      "pop": 1.1114803948926804,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 61,
+      "abbrev": "MIN",
+      "region": "Minnesota",
+      "name": "Vikings",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/09/minnesota_vikings_1966-1996.png",
+      "colors": [
+        "#800080",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 4,
+      "pop": 1.0921498491469381,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 62,
+      "abbrev": "ATL",
+      "region": "Atlanta",
+      "name": "Falcons",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/atlanta_falcons_1966-1989.png",
+      "colors": [
+        "#ff0000",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 5,
+      "pop": 1.1535132778553248,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 63,
+      "abbrev": "BOS",
+      "region": "Boston",
+      "name": "Patriots",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/boston_patriots_1961-1971.png",
+      "colors": [
+        "#ff0000",
+        "#ffffff",
+        "#0000ff"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.1352387374722743,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 64,
+      "abbrev": "BUF",
+      "region": "Buffalo",
+      "name": "Bills",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/buffalo_bills_1970-1973.png",
+      "colors": [
+        "#0000ff",
+        "#ffffff",
+        "#ff0000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0706917668873528,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 65,
+      "abbrev": "OIL",
+      "region": "Houston",
+      "name": "Oilers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/houston_oilers_1969-1971.png",
+      "colors": [
+        "#add8e6",
+        "#ffffff",
+        "#ff0000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.091610275740446,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 66,
+      "abbrev": "MIA",
+      "region": "Miami",
+      "name": "Dolphins",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/miami_dolphins_1966-1973.png",
+      "colors": [
+        "#00ced1",
+        "#ffffff",
+        "#ffa500"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.0808600033283593,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 67,
+      "abbrev": "NYJ",
+      "region": "New York",
+      "name": "Jets",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/07/new_york_jets_1970-1977.png",
+      "colors": [
+        "#ffffff",
+        "#025600",
+        "#025600"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1.113792727546238,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 68,
+      "abbrev": "DEN",
+      "region": "Denver",
+      "name": "Broncos",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/denver_broncos_1970-1992.png",
+      "colors": [
+        "#ff4500",
+        "#ffffff",
+        "#0000ff"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 2,
+      "pop": 1.0986726774758409,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 69,
+      "abbrev": "KAN",
+      "region": "Kansas City",
+      "name": "Chiefs",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/kansas_city_chiefs_1970-1971.png",
+      "colors": [
+        "#ff0000",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 2,
+      "pop": 1.0776329972242589,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 70,
+      "abbrev": "OAK",
+      "region": "Oakland",
+      "name": "Raiders",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2016/SLH/nfl_primary/oakland_raiders.png",
+      "colors": [
+        "#c0c0c0",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 2,
+      "pop": 1.1057784313732515,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 71,
+      "abbrev": "SDG",
+      "region": "San Diego",
+      "name": "Chargers",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_diego_chargers_1961-1973.png",
+      "colors": [
+        "#add8e6",
+        "#ffffff",
+        "#ffd700"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 2,
+      "pop": 1.0683350991385905,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 72,
+      "abbrev": "NOR",
+      "region": "New Orleans",
+      "name": "Saints",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_orleans_saints_1967-1999.png",
+      "colors": [
+        "#cdbe70",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 5,
+      "pop": 1.1317907536149092,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 73,
+      "abbrev": "CIN",
+      "region": "Cincinnati",
+      "name": "Bengals",
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cincinnati_bengals_1970-1980.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#fa6c00"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1.1089059663823007,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    }
+  ],
+  "gameAttributes": {
+    "aiJerseyRetirement": true,
+    "aiTradesFactor": 1,
+    "allStarGame": null,
+    "autoDeleteOldBoxScores": true,
+    "blockFactor": 1,
+    "brotherRate": 0.005,
+    "budget": true,
+    "challengeFiredLuxuryTax": false,
+    "challengeFiredMissPlayoffs": false,
+    "challengeLoseBestPlayer": false,
+    "challengeNoDraftPicks": false,
+    "challengeNoFreeAgents": false,
+    "challengeNoRatings": false,
+    "challengeNoTrades": false,
+    "challengeThanosMode": false,
+    "confs": [
+      {
+        "start": null,
+        "value": [
+          {
+            "cid": 0,
+            "name": ""
+          }
+        ]
+      },
+      {
+        "start": 1934,
+        "value": [
+          {
+            "cid": 0,
+            "name": "National Football League"
+          }
+        ]
+      },
+      {
+        "start": 1951,
+        "value": [
+          {
+            "cid": 0,
+            "name": "National Football League"
+          }
+        ]
+      },
+      {
+        "start": 1967,
+        "value": [
+          {
+            "cid": 0,
+            "name": "National Football League"
+          },
+          {
+            "cid": 1,
+            "name": "American Football League"
+          }
+        ]
+      },
+      {
+        "start": 1968,
+        "value": [
+          {
+            "cid": 0,
+            "name": "National Football League"
+          },
+          {
+            "cid": 1,
+            "name": "American Football League"
+          }
+        ]
+      },
+      {
+        "start": 1971,
+        "value": [
+          {
+            "cid": 0,
+            "name": "American Football Conference"
+          },
+          {
+            "cid": 1,
+            "name": "National Football Conference"
+          }
+        ]
+      }
+    ],
+    "daysLeft": 0,
+    "defaultStadiumCapacity": 70000,
+    "difficulty": 0,
+    "divs": [
+      {
+        "start": null,
+        "value": [
+          {
+            "did": 0,
+            "cid": 0,
+            "name": ""
+          }
+        ]
+      },
+      {
+        "start": 1934,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 1950,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "American"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "National"
+          }
+        ]
+      },
+      {
+        "start": 1951,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "American"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "National"
+          }
+        ]
+      },
+      {
+        "start": 1953,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 1967,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "West"
+          },
+          {
+            "cid": 1,
+            "did": 2,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 3,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 1968,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "Capitol"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "Century"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "Central"
+          },
+          {
+            "cid": 0,
+            "did": 3,
+            "name": "Coastal"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "West"
+          }
+        ]
+      },
+      {
+        "start": 1971,
+        "value": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "Central"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "West"
+          },
+          {
+            "cid": 1,
+            "did": 3,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "Central"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "West"
+          }
+        ]
+      }
+    ],
+    "draftAges": [
+      21,
+      23
+    ],
+    "draftType": "noLottery",
+    "elam": false,
+    "elamASG": true,
+    "elamMinutes": 4,
+    "elamPoints": 8,
+    "equalizeRegions": false,
+    "expansionDraft": {
+      "phase": "setup"
+    },
+    "fantasyPoints": "standard",
+    "forceRetireAge": 0,
+    "foulRateFactor": 1,
+    "foulsNeededToFoulOut": 6,
+    "foulsUntilBonus": [
+      5,
+      4,
+      2
+    ],
+    "gameOver": false,
+    "godMode": false,
+    "godModeInPast": false,
+    "gracePeriodEnd": 1948,
+    "hardCap": true,
+    "hideDisabledTeams": false,
+    "hofFactor": 1.25,
+    "homeCourtAdvantage": 1,
+    "inflationAvg": 0,
+    "inflationMax": 0,
+    "inflationMin": 0,
+    "inflationStd": 0,
+    "injuryRate": 0.002,
+    "lowestDifficulty": 0,
+    "luxuryPayroll": 100000,
+    "luxuryTax": 1.5,
+    "maxContract": 120,
+    "maxContractLength": 5,
+    "maxRosterSize": 42,
+    "minContract": 100,
+    "minContractLength": 1,
+    "minPayroll": 150,
+    "minRosterSize": 38,
+    "minimumPayroll": 3750,
+    "numDraftRounds": 17,
+    "numGames": 14,
+    "numGamesConf": null,
+    "numGamesDiv": null,
+    "numGamesPlayoffSeries": [
+      {
+        "start": null,
+        "value": []
+      },
+      {
+        "start": 1934,
+        "value": [
+          1
+        ]
+      },
+      {
+        "start": 1951,
+        "value": [
+          1
+        ]
+      },
+      {
+        "start": 1967,
+        "value": [
+          1,
+          1
+        ]
+      },
+      {
+        "start": 1968,
+        "value": [
+          1,
+          1
+        ]
+      }
+    ],
+    "numPeriods": 4,
+    "numPlayersDunk": 4,
+    "numPlayersOnCourt": 11,
+    "numPlayersThree": 8,
+    "numPlayoffByes": 0,
+    "numSeasonsFutureDraftPicks": 4,
+    "orbFactor": 1,
+    "otherTeamsWantToHire": false,
+    "otl": false,
+    "pace": 100,
+    "phase": 0,
+    "playIn": false,
+    "playerMoodTraits": true,
+    "playersRefuseToNegotiate": true,
+    "playoffsByConf": true,
+    "playoffsNumTeamsDiv": 1,
+    "playoffsReseed": true,
+    "pointsFormula": "",
+    "quarterLength": 15,
+    "realPlayerDeterminism": 0,
+    "rookieContractLengths": [
+      3,
+      2
+    ],
+    "rookiesCanRefuse": true,
+    "salaryCap": 5000,
+    "season": 1971,
+    "sonRate": 0.005,
+    "spectator": false,
+    "startingSeason": 1971,
+    "stealFactor": 1,
+    "stopOnInjury": false,
+    "stopOnInjuryGames": 1,
+    "threePointAccuracyFactor": 1,
+    "threePointTendencyFactor": 1,
+    "threePointers": true,
+    "tiebreakers": [
+      "headToHeadRecord",
+      "divRecordIfSame",
+      "commonOpponentsRecord",
+      "confRecordIfSame",
+      "strengthOfVictory",
+      "strengthOfSchedule",
+      "marginOfVictory",
+      "coinFlip"
+    ],
+    "ties": true,
+    "tradeDeadline": 0.6,
+    "tragicDeathRate": 0.001,
+    "turnoverFactor": 1,
+    "twoPointAccuracyFactor": 1,
+    "userTid": [
+      {
+        "start": null,
+        "value": 7
+      },
+      {
+        "start": 1946,
+        "value": 46
+      }
+    ],
+    "userTids": [
+      46
+    ]
+  },
+  "scheduledEvents": [
+    {
+      "type": "gameAttributes",
+      "season": 1971,
+      "phase": 4,
+      "id": 275,
+      "info": {
+        "salaryCap": 6000,
+        "minimumPayroll": 4500,
+        "minContract": 125,
+        "maxContract": 150
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1972,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 63,
+        "region": "New England",
+        "name": "Patriots",
+        "abbrev": "NWE",
+        "colors": [
+          "#ff0000",
+          "#ffffff",
+          "#0000ff"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/boston_patriots_1961-1971.png"
+      },
+      "id": 276
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1972,
+      "phase": 4,
+      "id": 277,
+      "info": {
+        "salaryCap": 7000,
+        "minimumPayroll": 5250,
+        "minContract": 150,
+        "maxContract": 200
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1973,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 45,
+        "region": "Washington",
+        "name": "Redskins",
+        "abbrev": "WAS",
+        "colors": [
+          "#800000",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/washington_redskins_1972-1981.png"
+      },
+      "id": 278
+    },
+    {
+      "type": "teamInfo",
+      "season": 1973,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 63,
+        "region": "New England",
+        "name": "Patriots",
+        "abbrev": "NWE",
+        "colors": [
+          "#ff0000",
+          "#ffffff",
+          "#0000ff"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/new_england_patriots_1972-1988.png"
+      },
+      "id": 279
+    },
+    {
+      "type": "teamInfo",
+      "season": 1973,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 65,
+        "region": "Houston",
+        "name": "Oilers",
+        "abbrev": "OIL",
+        "colors": [
+          "#add8e6",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/houston_oilers_1972-1979.png"
+      },
+      "id": 280
+    },
+    {
+      "type": "teamInfo",
+      "season": 1973,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 69,
+        "region": "Kansas City",
+        "name": "Chiefs",
+        "abbrev": "KAN",
+        "colors": [
+          "#ff0000",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/kansas_city_chiefs_1972-pres.png"
+      },
+      "id": 281
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1973,
+      "phase": 4,
+      "id": 282,
+      "info": {
+        "salaryCap": 8000,
+        "minimumPayroll": 6000,
+        "minContract": 200,
+        "maxContract": 300
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1974,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 46,
+        "region": "Philadelphia",
+        "name": "Eagles",
+        "abbrev": "PHI",
+        "colors": [
+          "#ffffff",
+          "#008000",
+          "#008000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2019/04/philadelphia_eagles_1973-1986.png"
+      },
+      "id": 283
+    },
+    {
+      "type": "teamInfo",
+      "season": 1974,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 50,
+        "region": "Los Angeles",
+        "name": "Rams",
+        "abbrev": "LAR",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/los_angeles_rams_1970-1982.png"
+      },
+      "id": 284
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1974,
+      "phase": 4,
+      "id": 285,
+      "info": {
+        "salaryCap": 9000,
+        "minimumPayroll": 6750,
+        "minContract": 250,
+        "maxContract": 400
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1975,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 8,
+        "region": "Chicago",
+        "name": "Bears",
+        "abbrev": "CHI",
+        "colors": [
+          "#000080",
+          "#ffffff",
+          "#ff4500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/chicago_bears_1974-pres.png"
+      },
+      "id": 286
+    },
+    {
+      "type": "teamInfo",
+      "season": 1975,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 46,
+        "region": "Philadelphia",
+        "name": "Eagles",
+        "abbrev": "PHI",
+        "colors": [
+          "#008000",
+          "#ffffff",
+          "#c0c0c0"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2019/04/philadelphia_eagles_1973-1986.png"
+      },
+      "id": 287
+    },
+    {
+      "type": "teamInfo",
+      "season": 1975,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 64,
+        "region": "Buffalo",
+        "name": "Bills",
+        "abbrev": "BUF",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/buffalo_bills_1974-pres.png"
+      },
+      "id": 288
+    },
+    {
+      "type": "teamInfo",
+      "season": 1975,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 66,
+        "region": "Miami",
+        "name": "Dolphins",
+        "abbrev": "MIA",
+        "colors": [
+          "#00ced1",
+          "#ffffff",
+          "#ffa500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/miami_dolphins_1974-1989.png"
+      },
+      "id": 289
+    },
+    {
+      "type": "teamInfo",
+      "season": 1975,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 71,
+        "region": "San Diego",
+        "name": "Chargers",
+        "abbrev": "SDG",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_diego_chargers_1974-1987.png"
+      },
+      "id": 290
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1975,
+      "phase": 4,
+      "info": {
+        "minRosterSize": 41,
+        "maxRosterSize": 45
+      },
+      "id": 291
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1975,
+      "phase": 4,
+      "id": 292,
+      "info": {
+        "salaryCap": 10000,
+        "minimumPayroll": 7500,
+        "minContract": 200,
+        "maxContract": 450
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1976,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 33,
+        "region": "New York",
+        "name": "Giants",
+        "abbrev": "NYG",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_york_giants_1975.png"
+      },
+      "id": 293
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1976,
+      "phase": 4,
+      "info": {
+        "minRosterSize": 43,
+        "maxRosterSize": 47
+      },
+      "id": 294
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1976,
+      "phase": 4,
+      "id": 295,
+      "info": {
+        "salaryCap": 11000,
+        "minimumPayroll": 8250,
+        "minContract": 300,
+        "maxContract": 525
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1976,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Tampa Bay",
+            "name": "Buccaneers",
+            "pop": 1.1,
+            "colors": [
+              "#ffa500",
+              "#ffffff",
+              "#ff0000"
+            ],
+            "jersey": "football",
+            "abbrev": "TAM",
+            "imgURL": "https://content.sportslogos.net/logos/7/176/full/1041.gif",
+            "tid": 74,
+            "cid": 0,
+            "did": 2
+          },
+          {
+            "region": "Seattle",
+            "name": "Seahawks",
+            "pop": 1.1,
+            "colors": [
+              "#0000ff",
+              "#ffffff",
+              "#008000"
+            ],
+            "jersey": "football",
+            "abbrev": "SEA",
+            "imgURL": "https://content.sportslogos.net/logos/7/180/full/995.png",
+            "tid": 75,
+            "cid": 1,
+            "did": 5
+          }
+        ]
+      },
+      "id": 296
+    },
+    {
+      "type": "teamInfo",
+      "season": 1977,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 33,
+        "region": "New York",
+        "name": "Giants",
+        "abbrev": "NYG",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_york_giants_1976-1999.png"
+      },
+      "id": 297
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1977,
+      "phase": 4,
+      "info": {
+        "minRosterSize": 41,
+        "maxRosterSize": 45
+      },
+      "id": 298
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1977,
+      "phase": 4,
+      "id": 299,
+      "info": {
+        "salaryCap": 12000,
+        "minimumPayroll": 9000,
+        "minContract": 300,
+        "maxContract": 550
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1978,
+      "phase": 0,
+      "info": {
+        "did": 4,
+        "tid": 74,
+        "region": "Tampa Bay",
+        "name": "Buccaneers",
+        "abbrev": "TAM",
+        "colors": [
+          "#ffa500",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/tampa_bay_buccaneers_1976-1996.png"
+      },
+      "id": 300
+    },
+    {
+      "type": "teamInfo",
+      "season": 1978,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 75,
+        "region": "Seattle",
+        "name": "Seahawks",
+        "abbrev": "SEA",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#008000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/seattle_seahawks_1976-2001.png"
+      },
+      "id": 301
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1978,
+      "phase": 4,
+      "info": {
+        "minRosterSize": 43,
+        "maxRosterSize": 47
+      },
+      "id": 302
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1978,
+      "phase": 4,
+      "id": 303,
+      "info": {
+        "salaryCap": 13000,
+        "minimumPayroll": 9750,
+        "minContract": 300,
+        "maxContract": 575
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1978,
+      "phase": 0,
+      "info": {
+        "draftType": "noLottery",
+        "numDraftRounds": 15
+      },
+      "id": 304
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 67,
+        "region": "New York",
+        "name": "Jets",
+        "abbrev": "NYJ",
+        "colors": [
+          "#ffffff",
+          "#025600",
+          "#025600"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_york_jets_1978-1997.png"
+      },
+      "id": 305
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1979,
+      "phase": 4,
+      "id": 306,
+      "info": {
+        "salaryCap": 14000,
+        "minimumPayroll": 10250,
+        "minContract": 300,
+        "maxContract": 600
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1979,
+      "phase": 0,
+      "info": {
+        "numGames": 16
+      },
+      "id": 307
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1979,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "numPlayoffByes": 6,
+      "id": 308
+    },
+    {
+      "type": "teamInfo",
+      "season": 1980,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 59,
+        "region": "Baltimore",
+        "name": "Colts",
+        "abbrev": "CLT",
+        "colors": [
+          "#ffffff",
+          "#4646ff",
+          "#4646ff"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/indianapolis_colts_1984-2001.png"
+      },
+      "id": 309
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1980,
+      "phase": 4,
+      "id": 310,
+      "info": {
+        "salaryCap": 15000,
+        "minimumPayroll": 11500,
+        "minContract": 300,
+        "maxContract": 625
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "info": {
+        "did": 4,
+        "tid": 16,
+        "region": "Green Bay",
+        "name": "Packers",
+        "abbrev": "GNB",
+        "colors": [
+          "#006400",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/green_bay_packers_1980-pres.png"
+      },
+      "id": 311
+    },
+    {
+      "type": "teamInfo",
+      "season": 1981,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 65,
+        "region": "Houston",
+        "name": "Oilers",
+        "abbrev": "OIL",
+        "colors": [
+          "#add8e6",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/tennessee_oilers_1997-1998.png"
+      },
+      "id": 312
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1981,
+      "phase": 4,
+      "id": 313,
+      "info": {
+        "salaryCap": 17000,
+        "minimumPayroll": 12250,
+        "minContract": 310,
+        "maxContract": 650
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1982,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 73,
+        "region": "Cincinnati",
+        "name": "Bengals",
+        "abbrev": "CIN",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#fa6c00"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cincinnati_bengals_1981-1986.png"
+      },
+      "id": 314
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1982,
+      "phase": 4,
+      "id": 315,
+      "info": {
+        "salaryCap": 18000,
+        "minimumPayroll": 13000,
+        "minContract": 315,
+        "maxContract": 675
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 45,
+        "region": "Washington",
+        "name": "Redskins",
+        "abbrev": "WAS",
+        "colors": [
+          "#800000",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2016/SLH/nfl_primary/washington_redskins_1982.png"
+      },
+      "id": 316
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 59,
+        "region": "Baltimore",
+        "name": "Colts",
+        "abbrev": "CLT",
+        "colors": [
+          "#4646ff",
+          "#ffffff",
+          "#a6a6a6"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/indianapolis_colts_1984-2001.png"
+      },
+      "id": 317
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 59,
+        "region": "Indianapolis",
+        "name": "Colts",
+        "abbrev": "IND",
+        "colors": [
+          "#4646ff",
+          "#ffffff",
+          "#a6a6a6"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/indianapolis_colts_1984-2001.png"
+      },
+      "id": 318
+    },
+    {
+      "type": "teamInfo",
+      "season": 1983,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 70,
+        "region": "Los Angeles",
+        "name": "Raiders",
+        "abbrev": "RAI",
+        "colors": [
+          "#c0c0c0",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2016/SLH/nfl_primary/oakland_raiders.png"
+      },
+      "id": 319
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1983,
+      "phase": 4,
+      "id": 320,
+      "info": {
+        "salaryCap": 19000,
+        "minimumPayroll": 13750,
+        "minContract": 325,
+        "maxContract": 700
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1983,
+      "phase": 0,
+      "info": {
+        "numGames": 9
+      },
+      "id": 321
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1983,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "numPlayoffByes": 0,
+      "id": 322
+    },
+    {
+      "type": "teamInfo",
+      "season": 1984,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 45,
+        "region": "Washington",
+        "name": "Redskins",
+        "abbrev": "WAS",
+        "colors": [
+          "#800000",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/washington_redskins_1983-pres.png"
+      },
+      "id": 323
+    },
+    {
+      "type": "teamInfo",
+      "season": 1984,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 50,
+        "region": "Los Angeles",
+        "name": "Rams",
+        "abbrev": "LAR",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/los_angeles_rams_1983-1988.png"
+      },
+      "id": 324
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1984,
+      "phase": 4,
+      "info": {
+        "minRosterSize": 47,
+        "maxRosterSize": 51
+      },
+      "id": 325
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1984,
+      "phase": 4,
+      "id": 326,
+      "info": {
+        "salaryCap": 20000,
+        "minimumPayroll": 142500,
+        "minContract": 350,
+        "maxContract": 725
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1984,
+      "phase": 0,
+      "info": {
+        "numGames": 16
+      },
+      "id": 327
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1984,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "numPlayoffByes": 6,
+      "id": 328
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1985,
+      "phase": 4,
+      "info": {
+        "minRosterSize": 43,
+        "maxRosterSize": 47
+      },
+      "id": 329
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1985,
+      "phase": 4,
+      "id": 330,
+      "info": {
+        "salaryCap": 22000,
+        "minimumPayroll": 14500,
+        "minContract": 350,
+        "maxContract": 750
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1985,
+      "phase": 0,
+      "info": {
+        "draftType": "noLottery",
+        "numDraftRounds": 15
+      },
+      "id": 331
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1986,
+      "phase": 4,
+      "id": 332,
+      "info": {
+        "salaryCap": 24000,
+        "minimumPayroll": 14500,
+        "minContract": 350,
+        "maxContract": 800
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1986,
+      "phase": 0,
+      "info": {
+        "draftType": "noLottery",
+        "numDraftRounds": 12
+      },
+      "id": 333
+    },
+    {
+      "type": "teamInfo",
+      "season": 1987,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 56,
+        "region": "Cleveland",
+        "name": "Browns",
+        "abbrev": "CLE",
+        "colors": [
+          "#8b4513",
+          "#ffffff",
+          "#ff4500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cleveland_browns_1986-1991.png"
+      },
+      "id": 334
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1987,
+      "phase": 4,
+      "id": 335,
+      "info": {
+        "salaryCap": 25000,
+        "minimumPayroll": 14500,
+        "minContract": 350,
+        "maxContract": 825
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1988,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 46,
+        "region": "Philadelphia",
+        "name": "Eagles",
+        "abbrev": "PHI",
+        "colors": [
+          "#008000",
+          "#ffffff",
+          "#c0c0c0"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/philadelphia_eagles_1987-1995.png"
+      },
+      "id": 336
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1988,
+      "phase": 4,
+      "id": 337,
+      "info": {
+        "salaryCap": 27000,
+        "minimumPayroll": 14500,
+        "minContract": 350,
+        "maxContract": 850
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1988,
+      "phase": 0,
+      "info": {
+        "numGames": 15
+      },
+      "id": 338
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 3,
+        "region": "Pheonix",
+        "name": "Cardinals",
+        "abbrev": "PHO",
+        "colors": [
+          "#ffffff",
+          "#8b0000",
+          "#8b0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/phoenix_cardinals_1988-1993.png"
+      },
+      "id": 339
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 59,
+        "region": "Indianapolis",
+        "name": "Colts",
+        "abbrev": "IND",
+        "colors": [
+          "#ffffff",
+          "#4646ff",
+          "#4646ff"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/indianapolis_colts_1984-2001.png"
+      },
+      "id": 340
+    },
+    {
+      "type": "teamInfo",
+      "season": 1989,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 71,
+        "region": "San Diego",
+        "name": "Chargers",
+        "abbrev": "SDG",
+        "colors": [
+          "#000098",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_diego_chargers_1988-2001.png"
+      },
+      "id": 341
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1989,
+      "phase": 4,
+      "id": 342,
+      "info": {
+        "salaryCap": 28000,
+        "minimumPayroll": 14500,
+        "minContract": 350,
+        "maxContract": 900
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1989,
+      "phase": 0,
+      "info": {
+        "numGames": 16
+      },
+      "id": 343
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 50,
+        "region": "Los Angeles",
+        "name": "Rams",
+        "abbrev": "LAR",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/los_angeles_rams_1989-1994.png"
+      },
+      "id": 344
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 63,
+        "region": "New England",
+        "name": "Patriots",
+        "abbrev": "NWE",
+        "colors": [
+          "#ff0000",
+          "#ffffff",
+          "#0000ff"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/new_england_patriots_1989-1992.png"
+      },
+      "id": 345
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 66,
+        "region": "Miami",
+        "name": "Dolphins",
+        "abbrev": "MIA",
+        "colors": [
+          "#00ced1",
+          "#ffffff",
+          "#ffa500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/miami_dolphins_1989-1996.png"
+      },
+      "id": 346
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1990,
+      "phase": 4,
+      "id": 347,
+      "info": {
+        "salaryCap": 30000,
+        "minimumPayroll": 14500,
+        "minContract": 360,
+        "maxContract": 905
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 62,
+        "region": "Atlanta",
+        "name": "Falcons",
+        "abbrev": "ATL",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/atlanta_falcons_1990-2002.png"
+      },
+      "id": 348
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 67,
+        "region": "New York",
+        "name": "Jets",
+        "abbrev": "NYJ",
+        "colors": [
+          "#025600",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_york_jets_1978-1997.png"
+      },
+      "id": 349
+    },
+    {
+      "type": "teamInfo",
+      "season": 1991,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 73,
+        "region": "Cincinnati",
+        "name": "Bengals",
+        "abbrev": "CIN",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#fa6c00"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cincinnati_bengals_1990-1996.png"
+      },
+      "id": 350
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1991,
+      "phase": 4,
+      "id": 351,
+      "info": {
+        "salaryCap": 31000,
+        "minimumPayroll": 14500,
+        "minContract": 360,
+        "maxContract": 1000
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1991,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "numPlayoffByes": 4,
+      "id": 352
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1992,
+      "phase": 4,
+      "id": 353,
+      "info": {
+        "salaryCap": 32000,
+        "minimumPayroll": 14608,
+        "minContract": 360,
+        "maxContract": 1250
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1993,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 56,
+        "region": "Cleveland",
+        "name": "Browns",
+        "abbrev": "CLE",
+        "colors": [
+          "#8b4513",
+          "#ffffff",
+          "#ff4500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cleveland_browns_1992-2005.png"
+      },
+      "id": 354
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1993,
+      "phase": 4,
+      "id": 355,
+      "info": {
+        "salaryCap": 33000,
+        "minimumPayroll": 14608,
+        "minContract": 370,
+        "maxContract": 1500
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 63,
+        "region": "New England",
+        "name": "Patriots",
+        "abbrev": "NWE",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/new_england_patriots_1993-1999.png"
+      },
+      "id": 356
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 68,
+        "region": "Denver",
+        "name": "Broncos",
+        "abbrev": "DEN",
+        "colors": [
+          "#ff4500",
+          "#ffffff",
+          "#0000ff"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/denver_broncos_1993-1996.png"
+      },
+      "id": 357
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "draftType": "noLottery",
+        "numDraftRounds": 8
+      },
+      "id": 358
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1994,
+      "phase": 4,
+      "id": 359,
+      "info": {
+        "salaryCap": 34608,
+        "minimumPayroll": 14608,
+        "minContract": 380,
+        "maxContract": 1750
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 3,
+        "region": "Arizona",
+        "name": "Cardinals",
+        "abbrev": "ARZ",
+        "colors": [
+          "#ffffff",
+          "#8b0000",
+          "#8b0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/arizona_cardinals_1994-2004.png"
+      },
+      "id": 360
+    },
+    {
+      "type": "teamInfo",
+      "season": 1995,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 70,
+        "region": "Oakland",
+        "name": "Raiders",
+        "abbrev": "OAK",
+        "colors": [
+          "#c0c0c0",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2016/SLH/nfl_primary/oakland_raiders.png"
+      },
+      "id": 361
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1995,
+      "phase": 4,
+      "id": 362,
+      "info": {
+        "salaryCap": 37100,
+        "minimumPayroll": 17100,
+        "minContract": 390,
+        "maxContract": 2000
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1995,
+      "phase": 0,
+      "info": {
+        "draftType": "noLottery",
+        "numDraftRounds": 7
+      },
+      "id": 363
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1995,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Jacksonville",
+            "name": "Jaguars",
+            "pop": 1.1,
+            "colors": [
+              "#259c79",
+              "#ffffff",
+              "#000000"
+            ],
+            "jersey": "football",
+            "abbrev": "JAX",
+            "imgURL": "https://content.sportslogos.net/logos/7/159/full/jacksonville_jaguars-primary_19953370.png",
+            "tid": 76,
+            "cid": 0,
+            "did": 1
+          },
+          {
+            "region": "Carolina",
+            "name": "Panthers",
+            "pop": 1.1,
+            "colors": [
+              "#3c96ff",
+              "#ffffff",
+              "#000000"
+            ],
+            "jersey": "football",
+            "abbrev": "CAR",
+            "imgURL": "https://content.sportslogos.net/logos/7/174/full/346.gif",
+            "tid": 77,
+            "cid": 1,
+            "did": 5
+          }
+        ]
+      },
+      "id": 364
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 50,
+        "region": "St. Louis",
+        "name": "Rams",
+        "abbrev": "STL",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/st_louis_rams_1995-1999.png"
+      },
+      "id": 365
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1996,
+      "phase": 4,
+      "id": 366,
+      "info": {
+        "salaryCap": 40753,
+        "minimumPayroll": 20753,
+        "minContract": 400,
+        "maxContract": 2500
+      }
+    },
+    {
+      "type": "contraction",
+      "season": 1996,
+      "phase": 4,
+      "info": {
+        "tid": 56
+      },
+      "id": 367
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1996,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Baltimore",
+            "name": "Ravens",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ffffff",
+              "#870097"
+            ],
+            "jersey": "football",
+            "abbrev": "BAL",
+            "imgURL": "https://content.sportslogos.net/logos/7/153/full/30cb4f54ns3sg4ufjgwlqthkj.gif",
+            "tid": 78,
+            "cid": 0,
+            "did": 1
+          }
+        ]
+      },
+      "id": 368
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 46,
+        "region": "Philadelphia",
+        "name": "Eagles",
+        "abbrev": "PHI",
+        "colors": [
+          "#007100",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/philadelphia_eagles_1996-pres.png"
+      },
+      "id": 369
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 57,
+        "region": "San Francisco",
+        "name": "49ers",
+        "abbrev": "SFO",
+        "colors": [
+          "#be0000",
+          "#ffffff",
+          "#cdbe70"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_francisco_49ers_1996-2008.png"
+      },
+      "id": 370
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1997,
+      "phase": 4,
+      "id": 371,
+      "info": {
+        "salaryCap": 41454,
+        "minimumPayroll": 21454,
+        "minContract": 410,
+        "maxContract": 5000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 60,
+        "region": "Dallas",
+        "name": "Cowboys",
+        "abbrev": "DAL",
+        "colors": [
+          "#0000a2",
+          "#ffffff",
+          "#a2b5cd"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/dallas_cowboys_1964-pres.png"
+      },
+      "id": 372
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "info": {
+        "did": 4,
+        "tid": 61,
+        "region": "Minnesota",
+        "name": "Vikings",
+        "abbrev": "MIN",
+        "colors": [
+          "#800080",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/09/minnesota_vikings_1997-2001.png"
+      },
+      "id": 373
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 65,
+        "region": "Tennessee",
+        "name": "Oilers",
+        "abbrev": "TEN",
+        "colors": [
+          "#add8e6",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/tennessee_oilers_1997-1998.png"
+      },
+      "id": 374
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 66,
+        "region": "Miami",
+        "name": "Dolphins",
+        "abbrev": "MIA",
+        "colors": [
+          "#00ced1",
+          "#ffffff",
+          "#ffa500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/miami_dolphins_1997-2012.png"
+      },
+      "id": 375
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 68,
+        "region": "Denver",
+        "name": "Broncos",
+        "abbrev": "DEN",
+        "colors": [
+          "#0000a6",
+          "#ffffff",
+          "#ff4500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/denver_broncos_1997-pres.png"
+      },
+      "id": 376
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 73,
+        "region": "Cincinnati",
+        "name": "Bengals",
+        "abbrev": "CIN",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#fa6c00"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2021/04/cincinnati_bengals_1997-2003.png"
+      },
+      "id": 377
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "info": {
+        "did": 4,
+        "tid": 74,
+        "region": "Tampa Bay",
+        "name": "Buccaneers",
+        "abbrev": "TAM",
+        "colors": [
+          "#b70000",
+          "#ffffff",
+          "#6e6e6e"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/tampa_bay_buccaneers_1997-2013.png"
+      },
+      "id": 378
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1998,
+      "phase": 4,
+      "id": 379,
+      "info": {
+        "salaryCap": 52388,
+        "minimumPayroll": 32388,
+        "minContract": 420,
+        "maxContract": 7500
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 67,
+        "region": "New York",
+        "name": "Jets",
+        "abbrev": "NYJ",
+        "colors": [
+          "#ffffff",
+          "#025600",
+          "#025600"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_york_jets_1998-pres.png"
+      },
+      "id": 380
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1999,
+      "phase": 4,
+      "id": 381,
+      "info": {
+        "salaryCap": 57288,
+        "minimumPayroll": 37288,
+        "minContract": 430,
+        "maxContract": 10000
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1999,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Cleveland",
+            "name": "Browns",
+            "pop": 1.1,
+            "colors": [
+              "#8b4513",
+              "#ffffff",
+              "#ff4500"
+            ],
+            "jersey": "football",
+            "abbrev": "CLE",
+            "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cleveland_browns_1992-2005.png",
+            "tid": 56,
+            "cid": 0,
+            "did": 1
+          }
+        ]
+      },
+      "id": 382
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 65,
+        "region": "Tennessee",
+        "name": "Titans",
+        "abbrev": "TEN",
+        "colors": [
+          "#000a8d",
+          "#ffffff",
+          "#add8e6"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/tennessee_titans_1999-pres.png"
+      },
+      "id": 383
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 78,
+        "region": "Baltimore",
+        "name": "Ravens",
+        "abbrev": "BAL",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#870097"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/baltimore_ravens_1999-pres.png"
+      },
+      "id": 384
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2000,
+      "phase": 4,
+      "id": 385,
+      "info": {
+        "salaryCap": 62172,
+        "minimumPayroll": 42172,
+        "minContract": 440,
+        "maxContract": 12500
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 33,
+        "region": "New York",
+        "name": "Giants",
+        "abbrev": "NYG",
+        "colors": [
+          "#0000ad",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_york_giants_2000-pres.png"
+      },
+      "id": 386
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 50,
+        "region": "St. Louis",
+        "name": "Rams",
+        "abbrev": "STL",
+        "colors": [
+          "#0000a8",
+          "#ffffff",
+          "#c7bf92"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/st_louis_rams_2000-2015.png"
+      },
+      "id": 387
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 63,
+        "region": "New England",
+        "name": "Patriots",
+        "abbrev": "NWE",
+        "colors": [
+          "#0000ab",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/new_england_patriots_2000-pres.png"
+      },
+      "id": 388
+    },
+    {
+      "type": "teamInfo",
+      "season": 2001,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 72,
+        "region": "New Orleans",
+        "name": "Saints",
+        "abbrev": "NOR",
+        "colors": [
+          "#cdbe70",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/new_orleans_saints_2000-2001.png"
+      },
+      "id": 389
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2001,
+      "phase": 4,
+      "id": 390,
+      "info": {
+        "salaryCap": 67405,
+        "minimumPayroll": 47405,
+        "minContract": 450,
+        "maxContract": 15000
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2002,
+      "phase": 4,
+      "id": 391,
+      "info": {
+        "salaryCap": 71101,
+        "minimumPayroll": 51101,
+        "minContract": 460,
+        "maxContract": 15500
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2002,
+      "phase": 4,
+      "info": {
+        "confs": [
+          {
+            "cid": 0,
+            "name": "American Football Conference"
+          },
+          {
+            "cid": 1,
+            "name": "National Football Conference"
+          }
+        ],
+        "divs": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "North"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "South"
+          },
+          {
+            "cid": 0,
+            "did": 3,
+            "name": "West"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "East"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "North"
+          },
+          {
+            "cid": 1,
+            "did": 6,
+            "name": "South"
+          },
+          {
+            "cid": 1,
+            "did": 7,
+            "name": "West"
+          }
+        ]
+      },
+      "id": 392
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2002,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Houston",
+            "name": "Texans",
+            "pop": 1.1,
+            "colors": [
+              "#000092",
+              "#ffffff",
+              "#d10000"
+            ],
+            "jersey": "football",
+            "abbrev": "HOU",
+            "imgURL": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "tid": 79,
+            "cid": 0,
+            "did": 2
+          }
+        ]
+      },
+      "id": 393
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 7,
+        "tid": 3,
+        "region": "Arizona",
+        "name": "Cardinals",
+        "abbrev": "ARZ",
+        "colors": [
+          "#ffffff",
+          "#8b0000",
+          "#8b0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/arizona_cardinals_1994-2004.png"
+      },
+      "id": 394
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 8,
+        "region": "Chicago",
+        "name": "Bears",
+        "abbrev": "CHI",
+        "colors": [
+          "#000080",
+          "#ffffff",
+          "#ff4500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/chicago_bears_1974-pres.png"
+      },
+      "id": 395
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 16,
+        "region": "Green Bay",
+        "name": "Packers",
+        "abbrev": "GNB",
+        "colors": [
+          "#006400",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/green_bay_packers_1980-pres.png"
+      },
+      "id": 396
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 4,
+        "tid": 33,
+        "region": "New York",
+        "name": "Giants",
+        "abbrev": "NYG",
+        "colors": [
+          "#0000ad",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_york_giants_2000-pres.png"
+      },
+      "id": 397
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 43,
+        "region": "Detroit",
+        "name": "Lions",
+        "abbrev": "DET",
+        "colors": [
+          "#009acd",
+          "#ffffff",
+          "#c0c0c0"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/detroit_lions_2003-2008.png"
+      },
+      "id": 398
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 43,
+        "region": "Detroit",
+        "name": "Lions",
+        "abbrev": "DET",
+        "colors": [
+          "#009acd",
+          "#ffffff",
+          "#c0c0c0"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/detroit_lions_2003-2008.png"
+      },
+      "id": 399
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 4,
+        "tid": 45,
+        "region": "Washington",
+        "name": "Redskins",
+        "abbrev": "WAS",
+        "colors": [
+          "#800000",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/washington_redskins_1983-pres.png"
+      },
+      "id": 400
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 4,
+        "tid": 46,
+        "region": "Philadelphia",
+        "name": "Eagles",
+        "abbrev": "PHI",
+        "colors": [
+          "#007100",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/philadelphia_eagles_1996-pres.png"
+      },
+      "id": 401
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 47,
+        "region": "Pittsburgh",
+        "name": "Steelers",
+        "abbrev": "PIT",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/05/pittsburgh_steelers_2002-pres.png"
+      },
+      "id": 402
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 7,
+        "tid": 50,
+        "region": "St. Louis",
+        "name": "Rams",
+        "abbrev": "STL",
+        "colors": [
+          "#0000a8",
+          "#ffffff",
+          "#c7bf92"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/st_louis_rams_2000-2015.png"
+      },
+      "id": 403
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 56,
+        "region": "Cleveland",
+        "name": "Browns",
+        "abbrev": "CLE",
+        "colors": [
+          "#8b4513",
+          "#ffffff",
+          "#ff4500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cleveland_browns_1992-2005.png"
+      },
+      "id": 404
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 7,
+        "tid": 57,
+        "region": "San Francisco",
+        "name": "49ers",
+        "abbrev": "SFO",
+        "colors": [
+          "#be0000",
+          "#ffffff",
+          "#cdbe70"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_francisco_49ers_1996-2008.png"
+      },
+      "id": 405
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 59,
+        "region": "Indianapolis",
+        "name": "Colts",
+        "abbrev": "IND",
+        "colors": [
+          "#ffffff",
+          "#4646ff",
+          "#4646ff"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/indianapolis_colts_2002-pres.png"
+      },
+      "id": 406
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 4,
+        "tid": 60,
+        "region": "Dallas",
+        "name": "Cowboys",
+        "abbrev": "DAL",
+        "colors": [
+          "#0000a2",
+          "#ffffff",
+          "#a2b5cd"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/dallas_cowboys_1964-pres.png"
+      },
+      "id": 407
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 61,
+        "region": "Minnesota",
+        "name": "Vikings",
+        "abbrev": "MIN",
+        "colors": [
+          "#800080",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/09/minnesota_vikings_2002-2009.png"
+      },
+      "id": 408
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 6,
+        "tid": 62,
+        "region": "Atlanta",
+        "name": "Falcons",
+        "abbrev": "ATL",
+        "colors": [
+          "#ff0000",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/atlanta_falcons_2003-pres.png"
+      },
+      "id": 409
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 63,
+        "region": "New England",
+        "name": "Patriots",
+        "abbrev": "NWE",
+        "colors": [
+          "#0000ab",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/02/new_england_patriots_2000-pres.png"
+      },
+      "id": 410
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 64,
+        "region": "Buffalo",
+        "name": "Bills",
+        "abbrev": "BUF",
+        "colors": [
+          "#0000c6",
+          "#ffffff",
+          "#ff0000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/buffalo_bills_1974-pres.png"
+      },
+      "id": 411
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 65,
+        "region": "Tennessee",
+        "name": "Titans",
+        "abbrev": "TEN",
+        "colors": [
+          "#000a8d",
+          "#ffffff",
+          "#add8e6"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/tennessee_titans_1999-pres.png"
+      },
+      "id": 412
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 66,
+        "region": "Miami",
+        "name": "Dolphins",
+        "abbrev": "MIA",
+        "colors": [
+          "#00ced1",
+          "#ffffff",
+          "#ffa500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/miami_dolphins_1997-2012.png"
+      },
+      "id": 413
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 67,
+        "region": "New York",
+        "name": "Jets",
+        "abbrev": "NYJ",
+        "colors": [
+          "#ffffff",
+          "#025600",
+          "#025600"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/new_york_jets_1998-pres.png"
+      },
+      "id": 414
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 68,
+        "region": "Denver",
+        "name": "Broncos",
+        "abbrev": "DEN",
+        "colors": [
+          "#0000a6",
+          "#ffffff",
+          "#ff4500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/denver_broncos_1997-pres.png"
+      },
+      "id": 415
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 69,
+        "region": "Kansas City",
+        "name": "Chiefs",
+        "abbrev": "KAN",
+        "colors": [
+          "#ff0000",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/kansas_city_chiefs_1972-pres.png"
+      },
+      "id": 416
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 70,
+        "region": "Oakland",
+        "name": "Raiders",
+        "abbrev": "OAK",
+        "colors": [
+          "#c0c0c0",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2016/SLH/nfl_primary/oakland_raiders.png"
+      },
+      "id": 417
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 71,
+        "region": "San Diego",
+        "name": "Chargers",
+        "abbrev": "SDG",
+        "colors": [
+          "#000098",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_diego_chargers_2002-2006.png"
+      },
+      "id": 418
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 6,
+        "tid": 72,
+        "region": "New Orleans",
+        "name": "Saints",
+        "abbrev": "NOR",
+        "colors": [
+          "#cdbe70",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/new_orleans_saints_2000-2001.png"
+      },
+      "id": 419
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 73,
+        "region": "Cincinnati",
+        "name": "Bengals",
+        "abbrev": "CIN",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#fa6c00"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2021/04/cincinnati_bengals_1997-2003.png"
+      },
+      "id": 420
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 6,
+        "tid": 74,
+        "region": "Tampa Bay",
+        "name": "Buccaneers",
+        "abbrev": "TAM",
+        "colors": [
+          "#b70000",
+          "#ffffff",
+          "#6e6e6e"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/tampa_bay_buccaneers_1997-2013.png"
+      },
+      "id": 421
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 7,
+        "tid": 75,
+        "region": "Seattle",
+        "name": "Seahawks",
+        "abbrev": "SEA",
+        "colors": [
+          "#000d85",
+          "#ffffff",
+          "#00dc0b"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/seattle_seahawks_2002-2011.png"
+      },
+      "id": 422
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 76,
+        "region": "Jacksonville",
+        "name": "Jaguars",
+        "abbrev": "JAX",
+        "colors": [
+          "#259c79",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/09/jacksonville_jaguars_2002-2012.png"
+      },
+      "id": 423
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 6,
+        "tid": 77,
+        "region": "Carolina",
+        "name": "Panthers",
+        "abbrev": "CAR",
+        "colors": [
+          "#3c96ff",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/carolina_panthers_1995-2011.png"
+      },
+      "id": 424
+    },
+    {
+      "type": "teamInfo",
+      "season": 2003,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 78,
+        "region": "Baltimore",
+        "name": "Ravens",
+        "abbrev": "BAL",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#870097"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/baltimore_ravens_1999-pres.png"
+      },
+      "id": 425
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2003,
+      "phase": 4,
+      "id": 426,
+      "info": {
+        "salaryCap": 75007,
+        "minimumPayroll": 55007,
+        "minContract": 470,
+        "maxContract": 16000
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2004,
+      "phase": 4,
+      "id": 427,
+      "info": {
+        "salaryCap": 80582,
+        "minimumPayroll": 60582,
+        "minContract": 480,
+        "maxContract": 16000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 73,
+        "region": "Cincinnati",
+        "name": "Bengals",
+        "abbrev": "CIN",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#fa6c00"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2021/04/cincinnati_bengals_2004-2020.png"
+      },
+      "id": 428
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2005,
+      "phase": 4,
+      "id": 429,
+      "info": {
+        "salaryCap": 85500,
+        "minimumPayroll": 65500,
+        "minContract": 490,
+        "maxContract": 16000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2006,
+      "phase": 0,
+      "info": {
+        "did": 7,
+        "tid": 3,
+        "region": "Arizona",
+        "name": "Cardinals",
+        "abbrev": "ARZ",
+        "colors": [
+          "#8b0000",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/arizona_cardinals_2005-pres.png"
+      },
+      "id": 430
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2006,
+      "phase": 4,
+      "id": 431,
+      "info": {
+        "salaryCap": 102000,
+        "minimumPayroll": 82000,
+        "minContract": 500,
+        "maxContract": 17000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 56,
+        "region": "Cleveland",
+        "name": "Browns",
+        "abbrev": "CLE",
+        "colors": [
+          "#8b4513",
+          "#ffffff",
+          "#ff4500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cleveland_browns_2006-2013.png"
+      },
+      "id": 432
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2007,
+      "phase": 4,
+      "id": 433,
+      "info": {
+        "salaryCap": 109000,
+        "minimumPayroll": 89000,
+        "minContract": 510,
+        "maxContract": 17500
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 71,
+        "region": "San Diego",
+        "name": "Chargers",
+        "abbrev": "SDG",
+        "colors": [
+          "#000098",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_diego_chargers_2007-2016.png"
+      },
+      "id": 434
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2008,
+      "phase": 4,
+      "id": 435,
+      "info": {
+        "salaryCap": 116000,
+        "minimumPayroll": 96000,
+        "minContract": 520,
+        "maxContract": 18000
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2009,
+      "phase": 4,
+      "id": 436,
+      "info": {
+        "salaryCap": 123000,
+        "minimumPayroll": 103000,
+        "minContract": 530,
+        "maxContract": 18000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 43,
+        "region": "Detroit",
+        "name": "Lions",
+        "abbrev": "DET",
+        "colors": [
+          "#009acd",
+          "#ffffff",
+          "#c0c0c0"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/detroit_lions-2009-2016.png"
+      },
+      "id": 437
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "did": 7,
+        "tid": 57,
+        "region": "San Francisco",
+        "name": "49ers",
+        "abbrev": "SFO",
+        "colors": [
+          "#be0000",
+          "#ffffff",
+          "#cdbe70"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_francisco_49ers_2009-pres.png"
+      },
+      "id": 438
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2010,
+      "phase": 4,
+      "id": 439,
+      "info": {
+        "salaryCap": 123000,
+        "minimumPayroll": 103000,
+        "minContract": 540,
+        "maxContract": 18500
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 61,
+        "region": "Minnesota",
+        "name": "Vikings",
+        "abbrev": "MIN",
+        "colors": [
+          "#800080",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/09/minnesota_vikings_2010-2012.png"
+      },
+      "id": 440
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2011,
+      "phase": 4,
+      "id": 441,
+      "info": {
+        "salaryCap": 120375,
+        "minimumPayroll": 100375,
+        "minContract": 550,
+        "maxContract": 19000
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "minRosterSize": 44,
+        "maxRosterSize": 55
+      },
+      "id": 442
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2012,
+      "phase": 4,
+      "id": 443,
+      "info": {
+        "salaryCap": 120600,
+        "minimumPayroll": 100600,
+        "minContract": 560,
+        "maxContract": 19000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "info": {
+        "did": 6,
+        "tid": 72,
+        "region": "New Orleans",
+        "name": "Saints",
+        "abbrev": "NOR",
+        "colors": [
+          "#cdbe70",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/new_orleans_saints_2012-2016.png"
+      },
+      "id": 444
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "info": {
+        "did": 7,
+        "tid": 75,
+        "region": "Seattle",
+        "name": "Seahawks",
+        "abbrev": "SEA",
+        "colors": [
+          "#000d85",
+          "#ffffff",
+          "#00dc0b"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/seattle_seahawks_2012-pres.png"
+      },
+      "id": 445
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "info": {
+        "did": 6,
+        "tid": 77,
+        "region": "Carolina",
+        "name": "Panthers",
+        "abbrev": "CAR",
+        "colors": [
+          "#3c96ff",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/carolina_panthers_2012-pres.png"
+      },
+      "id": 446
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2013,
+      "phase": 4,
+      "id": 447,
+      "info": {
+        "salaryCap": 123600,
+        "minimumPayroll": 103600,
+        "minContract": 570,
+        "maxContract": 20000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 61,
+        "region": "Minnesota",
+        "name": "Vikings",
+        "abbrev": "MIN",
+        "colors": [
+          "#800080",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/09/minnesota_vikings_2013-pres.png"
+      },
+      "id": 448
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 66,
+        "region": "Miami",
+        "name": "Dolphins",
+        "abbrev": "MIA",
+        "colors": [
+          "#00ced1",
+          "#ffffff",
+          "#ffa500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/miami_dolphins_2013-2017.png"
+      },
+      "id": 449
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "info": {
+        "did": 2,
+        "tid": 76,
+        "region": "Jacksonville",
+        "name": "Jaguars",
+        "abbrev": "JAX",
+        "colors": [
+          "#259c79",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/jacksonville_jaguars_2013-pres.png"
+      },
+      "id": 450
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2014,
+      "phase": 4,
+      "id": 451,
+      "info": {
+        "salaryCap": 133000,
+        "minimumPayroll": 113000,
+        "minContract": 580,
+        "maxContract": 21000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "info": {
+        "did": 6,
+        "tid": 74,
+        "region": "Tampa Bay",
+        "name": "Buccaneers",
+        "abbrev": "TAM",
+        "colors": [
+          "#b70000",
+          "#ffffff",
+          "#6e6e6e"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/tampa_bay_buccaneers_2014-pres.png"
+      },
+      "id": 452
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2015,
+      "phase": 4,
+      "id": 453,
+      "info": {
+        "salaryCap": 143280,
+        "minimumPayroll": 123280,
+        "minContract": 590,
+        "maxContract": 22000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 56,
+        "region": "Cleveland",
+        "name": "Browns",
+        "abbrev": "CLE",
+        "colors": [
+          "#8b4513",
+          "#ffffff",
+          "#ff4500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/cleveland_browns_2015-pres.png"
+      },
+      "id": 454
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2016,
+      "phase": 4,
+      "id": 455,
+      "info": {
+        "salaryCap": 155270,
+        "minimumPayroll": 135270,
+        "minContract": 600,
+        "maxContract": 23000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "info": {
+        "did": 7,
+        "tid": 50,
+        "region": "Los Angeles",
+        "name": "Rams",
+        "abbrev": "LAR",
+        "colors": [
+          "#0000a8",
+          "#ffffff",
+          "#c7bf92"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/st_louis_rams_2000-2015.png"
+      },
+      "id": 456
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2017,
+      "phase": 4,
+      "id": 457,
+      "info": {
+        "salaryCap": 167000,
+        "minimumPayroll": 147000,
+        "minContract": 610,
+        "maxContract": 24000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "did": 5,
+        "tid": 43,
+        "region": "Detroit",
+        "name": "Lions",
+        "abbrev": "DET",
+        "colors": [
+          "#009acd",
+          "#ffffff",
+          "#c0c0c0"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/detroit_lions-2017-pres.png"
+      },
+      "id": 458
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "did": 7,
+        "tid": 50,
+        "region": "Los Angeles",
+        "name": "Rams",
+        "abbrev": "LAR",
+        "colors": [
+          "#ffffff",
+          "#00009a",
+          "#00009a"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/los_angeles_rams_2017-pres.png"
+      },
+      "id": 459
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 71,
+        "region": "Los Angeles",
+        "name": "Chargers",
+        "abbrev": "LAC",
+        "colors": [
+          "#000098",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/san_diego_chargers_2007-2016.png"
+      },
+      "id": 460
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "did": 6,
+        "tid": 72,
+        "region": "New Orleans",
+        "name": "Saints",
+        "abbrev": "NOR",
+        "colors": [
+          "#cdbe70",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/new_orleans_saints_2017-pres.png"
+      },
+      "id": 461
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2018,
+      "phase": 4,
+      "id": 462,
+      "info": {
+        "salaryCap": 177200,
+        "minimumPayroll": 157200,
+        "minContract": 620,
+        "maxContract": 25000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 66,
+        "region": "Miami",
+        "name": "Dolphins",
+        "abbrev": "MIA",
+        "colors": [
+          "#00ced1",
+          "#ffffff",
+          "#ffa500"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2018/04/miami_dolphins_2018-pres.png"
+      },
+      "id": 463
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2019,
+      "phase": 4,
+      "id": 464,
+      "info": {
+        "salaryCap": 188200,
+        "minimumPayroll": 168200,
+        "minContract": 630,
+        "maxContract": 26000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "info": {
+        "did": 0,
+        "tid": 67,
+        "region": "New York",
+        "name": "Jets",
+        "abbrev": "NYJ",
+        "colors": [
+          "#ffffff",
+          "#025600",
+          "#025600"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2019/04/new_york_jets_2019-pres.png"
+      },
+      "id": 465
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2020,
+      "phase": 4,
+      "id": 466,
+      "info": {
+        "salaryCap": 198200,
+        "minimumPayroll": 178200,
+        "minContract": 640,
+        "maxContract": 27000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2021,
+      "phase": 0,
+      "info": {
+        "did": 4,
+        "tid": 45,
+        "region": "Washington",
+        "name": "Football Team",
+        "abbrev": "WAS",
+        "colors": [
+          "#800000",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/07/washington_football_team_2020-pres-1.png"
+      },
+      "id": 467
+    },
+    {
+      "type": "teamInfo",
+      "season": 2021,
+      "phase": 0,
+      "info": {
+        "did": 7,
+        "tid": 50,
+        "region": "Los Angeles",
+        "name": "Rams",
+        "abbrev": "LAR",
+        "colors": [
+          "#0000ff",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/03/los_angeles_rams_2020-pres.pn"
+      },
+      "id": 468
+    },
+    {
+      "type": "teamInfo",
+      "season": 2021,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 70,
+        "region": "Las Vegas",
+        "name": "Raiders",
+        "abbrev": "LVR",
+        "colors": [
+          "#c0c0c0",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/02/las_vegas_raiders_2020-present-1.png"
+      },
+      "id": 469
+    },
+    {
+      "type": "teamInfo",
+      "season": 2021,
+      "phase": 0,
+      "info": {
+        "did": 3,
+        "tid": 71,
+        "region": "Los Angeles",
+        "name": "Chargers",
+        "abbrev": "LAC",
+        "colors": [
+          "#000098",
+          "#ffffff",
+          "#ffd700"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/03/los_angeles-chargers_2020-pres.png"
+      },
+      "id": 470
+    },
+    {
+      "type": "teamInfo",
+      "season": 2021,
+      "phase": 0,
+      "info": {
+        "did": 6,
+        "tid": 74,
+        "region": "Tampa Bay",
+        "name": "Buccaneers",
+        "abbrev": "TAM",
+        "colors": [
+          "#b70000",
+          "#ffffff",
+          "#6e6e6e"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2020/04/tampa_bay_buccaneers_2020-pres.png"
+      },
+      "id": 471
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2021,
+      "phase": 4,
+      "id": 472,
+      "info": {
+        "salaryCap": 182500,
+        "minimumPayroll": 162500,
+        "minContract": 650,
+        "maxContract": 28000
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2021,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "numPlayoffByes": 2,
+      "id": 473
+    },
+    {
+      "type": "teamInfo",
+      "season": 2022,
+      "phase": 0,
+      "info": {
+        "did": 1,
+        "tid": 73,
+        "region": "Cincinnati",
+        "name": "Bengals",
+        "abbrev": "CIN",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#fa6c00"
+        ],
+        "imgURL": "https://sportslogohistory.com/wp-content/uploads/2021/04/cincinnati_bengals_2021-pres.png"
+      },
+      "id": 474
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2022,
+      "phase": 0,
+      "info": {
+        "numGames": 17
+      },
+      "id": 475
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2022,
+      "phase": 4,
+      "id": 476,
+      "info": {
+        "salaryCap": 208200,
+        "minimumPayroll": 188200,
+        "minContract": 660,
+        "maxContract": 30000
+      }
+    }
+  ]
+}
