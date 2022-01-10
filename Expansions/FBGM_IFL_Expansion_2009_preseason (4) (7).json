@@ -1,0 +1,3136 @@
+{
+  "version": 50,
+  "meta": {
+    "name": "IFL Expansion"
+  },
+  "scheduledEvents": [
+    {
+      "type": "contraction",
+      "season": 2009,
+      "phase": 4,
+      "info": {
+        "tid": 2
+      },
+      "id": 0
+    },
+    {
+      "type": "contraction",
+      "season": 2009,
+      "phase": 4,
+      "info": {
+        "tid": 3
+      },
+      "id": 1
+    },
+    {
+      "type": "contraction",
+      "season": 2009,
+      "phase": 4,
+      "info": {
+        "tid": 10
+      },
+      "id": 2
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2009,
+      "phase": 4,
+      "info": {
+        "confs": [
+          {
+            "cid": 0,
+            "name": "United"
+          },
+          {
+            "cid": 1,
+            "name": "Intense"
+          }
+        ],
+        "divs": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "Atlantic East"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "Central North"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "Central West"
+          },
+          {
+            "cid": 1,
+            "did": 3,
+            "name": "Lonestar East"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "Lonestar West"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "Pacific North"
+          }
+        ]
+      },
+      "id": 3
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2009,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Richmond",
+            "name": "Revolution",
+            "pop": 1.1,
+            "colors": [
+              "#1300b8",
+              "#c90000",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "RIC",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930110229801230376/RichmondRevolution.png",
+            "tid": 19,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Green Bay",
+            "name": "Blizzard",
+            "pop": 1.1,
+            "colors": [
+              "#055713",
+              "#ffffff",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "GBB",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/GreenBayBlizzard.png/120px-GreenBayBlizzard.png",
+            "tid": 20,
+            "cid": 0,
+            "did": 1
+          },
+          {
+            "region": "Chicago",
+            "name": "Slaughter",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ce0000",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "CHI",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930111156926967868/120px-ChicagoSlaughter.png",
+            "tid": 21,
+            "cid": 0,
+            "did": 1
+          },
+          {
+            "region": "La Crosse",
+            "name": "Spartans",
+            "pop": 1.1,
+            "colors": [
+              "#004006",
+              "#ffffff",
+              "#000000"
+            ],
+            "jersey": "football",
+            "abbrev": "LCS",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930111538512142406/LaCrosseSpartans.png",
+            "tid": 22,
+            "cid": 0,
+            "did": 1
+          },
+          {
+            "region": "Arkansas",
+            "name": "Diamonds",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#0097e7",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "ARK",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930112016897703956/220px-Arkansas_Diamonds_IFL_team_logo.png",
+            "tid": 23,
+            "cid": 1,
+            "did": 3
+          },
+          {
+            "region": "Austin",
+            "name": "Turfcats",
+            "pop": 1.1,
+            "colors": [
+              "#00400d",
+              "#ffffff",
+              "#f6dc7a"
+            ],
+            "jersey": "football",
+            "abbrev": "AUS",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930113432953430036/AustinTurfcats.png",
+            "tid": 24,
+            "cid": 1,
+            "did": 3
+          },
+          {
+            "region": "Amarillo",
+            "name": "Venom",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#d50000",
+              "#f6dc7a"
+            ],
+            "jersey": "football",
+            "abbrev": "AMA",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/c/c0/AmarilloVenom.png",
+            "tid": 25,
+            "cid": 1,
+            "did": 4
+          },
+          {
+            "region": "Tri-Cities",
+            "name": "Fever",
+            "pop": 1.1,
+            "colors": [
+              "#050063",
+              "#b59f4b",
+              "#303f81"
+            ],
+            "jersey": "football",
+            "abbrev": "TCF",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Tri-Cities_Fever.png/120px-Tri-Cities_Fever.png",
+            "tid": 26,
+            "cid": 1,
+            "did": 5
+          },
+          {
+            "region": "Kent",
+            "name": "Predators",
+            "pop": 1.1,
+            "colors": [
+              "#7f08cf",
+              "#ffffff",
+              "#000000"
+            ],
+            "jersey": "football",
+            "abbrev": "KEN",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930115120036728892/83c31d2c962d7c8999703c5bdf116406.png",
+            "tid": 27,
+            "cid": 1,
+            "did": 5
+          }
+        ]
+      },
+      "id": 4
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 0,
+        "region": "Maryland",
+        "name": "Maniacs",
+        "abbrev": "MAR",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#d60000"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930096358956879882/MarylandManiacs.png"
+      },
+      "id": 5
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 1,
+        "region": "Rochester",
+        "name": "Raiders",
+        "abbrev": "ROC",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#b8b8b8"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930096754358108240/RochesterRaiders.png"
+      },
+      "id": 6
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 4,
+        "region": "West Michigan",
+        "name": "ThunderHawks",
+        "abbrev": "WMT",
+        "colors": [
+          "#0aadff",
+          "#ffffff",
+          "#00058a"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930116841421037578/WestMichiganThunderHawks.png"
+      },
+      "id": 7
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 2,
+        "tid": 5,
+        "region": "Omaha",
+        "name": "Beef",
+        "abbrev": "OMA",
+        "colors": [
+          "#ff5900",
+          "#4e2109",
+          "#4e2109"
+        ],
+        "imgURL": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/276300/20181010233911_765_mascot720Near.png"
+      },
+      "id": 8
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 1,
+        "tid": 6,
+        "region": "Bloomington",
+        "name": "Extreme",
+        "abbrev": "BLO",
+        "colors": [
+          "#db0000",
+          "#ffffff",
+          "#002185"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930099896923603024/BloomingtonExtreme.PNG.png"
+      },
+      "id": 9
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 2,
+        "tid": 7,
+        "region": "Wichita",
+        "name": "Wild",
+        "abbrev": "WIC",
+        "colors": [
+          "#ff7300",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/WichitaWild.PNG/120px-WichitaWild.PNG"
+      },
+      "id": 10
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 2,
+        "tid": 8,
+        "region": "Sioux Falls",
+        "name": "Storm",
+        "abbrev": "SFS",
+        "colors": [
+          "#00187a",
+          "#ffffff",
+          "#db0000"
+        ],
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sioux_Falls_Storm_logo.png/120px-Sioux_Falls_Storm_logo.png"
+      },
+      "id": 11
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 2,
+        "tid": 9,
+        "region": "Sioux City",
+        "name": "Bandits",
+        "abbrev": "SCB",
+        "colors": [
+          "#000000",
+          "#d10000",
+          "#ffffff"
+        ],
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/SiouxCityBandits21.png/120px-SiouxCityBandits21.png"
+      },
+      "id": 12
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 4,
+        "tid": 11,
+        "region": "Abilene",
+        "name": "Ruff Riders",
+        "abbrev": "ABI",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#cc0000"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930101308353028096/AbileneRuffRiders.PNG.png"
+      },
+      "id": 13
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 3,
+        "tid": 12,
+        "region": "San Angelo",
+        "name": "Stampede Express",
+        "abbrev": "SAS",
+        "colors": [
+          "#ffd500",
+          "#000000",
+          "#572f0a"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930101893261328454/StampedeExpress.png"
+      },
+      "id": 14
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 3,
+        "tid": 13,
+        "region": "Corpus Christi",
+        "name": "Hammerheads",
+        "abbrev": "CCH",
+        "colors": [
+          "#c70000",
+          "#ffffff",
+          "#000e57"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930102545588842546/maxresdefault.png"
+      },
+      "id": 15
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 4,
+        "tid": 14,
+        "region": "West Texas",
+        "name": "Roughnecks",
+        "abbrev": "WTR",
+        "colors": [
+          "#002b8f",
+          "#e6e29a",
+          "#e6e29a"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930119553537687562/WTRoughnecks.png"
+      },
+      "id": 16
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 5,
+        "tid": 15,
+        "region": "Billings",
+        "name": "Outlaws",
+        "abbrev": "BIL",
+        "colors": [
+          "#000000",
+          "#ffffff",
+          "#0007d1"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930103432608632832/Billings_Outlaws.png"
+      },
+      "id": 17
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 5,
+        "tid": 16,
+        "region": "Fairbanks",
+        "name": "Grizzlies",
+        "abbrev": "FAI",
+        "colors": [
+          "#ff7300",
+          "#ffffff",
+          "#000ba3"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930103857487437834/Fairbanks_Grizzlies_logo.png"
+      },
+      "id": 18
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 2,
+        "tid": 17,
+        "region": "Colorado",
+        "name": "Ice",
+        "abbrev": "COL",
+        "colors": [
+          "#001a66",
+          "#ffffff",
+          "#0092d1"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930104182726357033/ColoradoIce.PNG.png"
+      },
+      "id": 19
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 5,
+        "tid": 18,
+        "region": "Alaska",
+        "name": "Wild",
+        "abbrev": "ALA",
+        "colors": [
+          "#b80000",
+          "#000000",
+          "#bababa"
+        ],
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/AlaskaWild.PNG/120px-AlaskaWild.PNG"
+      },
+      "id": 20
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "numPlayoffByes": 0
+      },
+      "id": 21
+    },
+    {
+      "type": "contraction",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "tid": 0
+      },
+      "id": 22
+    },
+    {
+      "type": "contraction",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "tid": 1
+      },
+      "id": 23
+    },
+    {
+      "type": "contraction",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "tid": 4
+      },
+      "id": 24
+    },
+    {
+      "type": "contraction",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "tid": 9
+      },
+      "id": 25
+    },
+    {
+      "type": "contraction",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "tid": 11
+      },
+      "id": 26
+    },
+    {
+      "type": "contraction",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "tid": 12
+      },
+      "id": 27
+    },
+    {
+      "type": "contraction",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "tid": 13
+      },
+      "id": 28
+    },
+    {
+      "type": "contraction",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "tid": 15
+      },
+      "id": 29
+    },
+    {
+      "type": "contraction",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "tid": 18
+      },
+      "id": 30
+    },
+    {
+      "type": "contraction",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "tid": 24
+      },
+      "id": 31
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "confs": [
+          {
+            "cid": 0,
+            "name": "United"
+          },
+          {
+            "cid": 1,
+            "name": "Intense"
+          }
+        ],
+        "divs": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": "Great Plains"
+          },
+          {
+            "cid": 0,
+            "did": 1,
+            "name": "Great Lakes"
+          },
+          {
+            "cid": 0,
+            "did": 2,
+            "name": "Atlantic"
+          },
+          {
+            "cid": 1,
+            "did": 3,
+            "name": "Pacific"
+          },
+          {
+            "cid": 1,
+            "did": 4,
+            "name": "Mountain West"
+          },
+          {
+            "cid": 1,
+            "did": 5,
+            "name": "Lonestar"
+          }
+        ]
+      },
+      "id": 32
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2010,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Nebraska",
+            "name": "Danger",
+            "pop": 1.1,
+            "colors": [
+              "#00cf29",
+              "#07008e",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "NEB",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/NebDanger.png/120px-NebDanger.png",
+            "tid": 28,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Reading",
+            "name": "Express",
+            "pop": 1.1,
+            "colors": [
+              "#000d3d",
+              "#ffffff",
+              "#afafaf"
+            ],
+            "jersey": "football",
+            "abbrev": "REA",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930156234601005066/ReadingExpress.png",
+            "tid": 29,
+            "cid": 0,
+            "did": 2
+          },
+          {
+            "region": "Lehigh Valley",
+            "name": "Steelhawks",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#f1d157",
+              "#f1d157"
+            ],
+            "jersey": "football",
+            "abbrev": "LVS",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930157030973505556/LehighValleySteelhawks.png",
+            "tid": 30,
+            "cid": 0,
+            "did": 2
+          },
+          {
+            "region": "Wenatchee Valley",
+            "name": "Venom",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ffffff",
+              "#a20000"
+            ],
+            "jersey": "football",
+            "abbrev": "WVV",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930157653454372924/WenatcheeValleyVenom.png",
+            "tid": 31,
+            "cid": 1,
+            "did": 3
+          },
+          {
+            "region": "Wyoming",
+            "name": "Cavalry",
+            "pop": 1.1,
+            "colors": [
+              "#000370",
+              "#ffffff",
+              "#eee991"
+            ],
+            "jersey": "football",
+            "abbrev": "WYO",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WyomingCavalry.PNG/120px-WyomingCavalry.PNG",
+            "tid": 32,
+            "cid": 1,
+            "did": 5
+          },
+          {
+            "region": "Arizona",
+            "name": "Adrenaline",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#000bcb",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "ARI",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930158714017681468/ArizonaAdrenaline.png",
+            "tid": 33,
+            "cid": 1,
+            "did": 5
+          },
+          {
+            "region": "Bricktown",
+            "name": "Brawlers",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ffffff",
+              "#c10000"
+            ],
+            "jersey": "football",
+            "abbrev": "BRI",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/8/8b/Bricktownbrawlers.PNG",
+            "tid": 34,
+            "cid": 1,
+            "did": 4
+          }
+        ]
+      },
+      "id": 33
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 5,
+        "region": "Omaha",
+        "name": "Beef",
+        "abbrev": "OMA",
+        "colors": [
+          "#ff5900",
+          "#4e2109",
+          "#4e2109"
+        ],
+        "imgURL": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/276300/20181010233911_765_mascot720Near.png"
+      },
+      "id": 34
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 1,
+        "tid": 6,
+        "region": "Bloomington",
+        "name": "Extreme",
+        "abbrev": "BLO",
+        "colors": [
+          "#db0000",
+          "#ffffff",
+          "#002185"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930099896923603024/BloomingtonExtreme.PNG.png"
+      },
+      "id": 35
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 7,
+        "region": "Wichita",
+        "name": "Wild",
+        "abbrev": "WIC",
+        "colors": [
+          "#ff7300",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/WichitaWild.PNG/120px-WichitaWild.PNG"
+      },
+      "id": 36
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 8,
+        "region": "Sioux Falls",
+        "name": "Storm",
+        "abbrev": "SFS",
+        "colors": [
+          "#00187a",
+          "#ffffff",
+          "#db0000"
+        ],
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sioux_Falls_Storm_logo.png/120px-Sioux_Falls_Storm_logo.png"
+      },
+      "id": 37
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 4,
+        "tid": 14,
+        "region": "West Texas",
+        "name": "Roughnecks",
+        "abbrev": "WTR",
+        "colors": [
+          "#002b8f",
+          "#e6e29a",
+          "#e6e29a"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930119553537687562/WTRoughnecks.png"
+      },
+      "id": 38
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 3,
+        "tid": 16,
+        "region": "Fairbanks",
+        "name": "Grizzlies",
+        "abbrev": "FAI",
+        "colors": [
+          "#ff7300",
+          "#ffffff",
+          "#000ba3"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930103857487437834/Fairbanks_Grizzlies_logo.png"
+      },
+      "id": 39
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 5,
+        "tid": 17,
+        "region": "Colorado",
+        "name": "Ice",
+        "abbrev": "COL",
+        "colors": [
+          "#001a66",
+          "#ffffff",
+          "#0092d1"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930104182726357033/ColoradoIce.PNG.png"
+      },
+      "id": 40
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "region": "Green Bay",
+        "name": "Blizzard",
+        "pop": 1.1,
+        "colors": [
+          "#055713",
+          "#ffffff",
+          "#ffffff"
+        ],
+        "jersey": "football",
+        "abbrev": "GBB",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/GreenBayBlizzard.png/120px-GreenBayBlizzard.png",
+        "tid": 20,
+        "cid": 0,
+        "did": 1
+      },
+      "id": 41
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "region": "Chicago",
+        "name": "Slaughter",
+        "pop": 1.1,
+        "colors": [
+          "#000000",
+          "#ce0000",
+          "#ffffff"
+        ],
+        "jersey": "football",
+        "abbrev": "CHI",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930111156926967868/120px-ChicagoSlaughter.png",
+        "tid": 21,
+        "cid": 0,
+        "did": 1
+      },
+      "id": 42
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "region": "La Crosse",
+        "name": "Spartans",
+        "pop": 1.1,
+        "colors": [
+          "#004006",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "football",
+        "abbrev": "LCS",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930111538512142406/LaCrosseSpartans.png",
+        "tid": 22,
+        "cid": 0,
+        "did": 1
+      },
+      "id": 43
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "region": "Allen",
+        "name": "Wranglers",
+        "pop": 1.1,
+        "colors": [
+          "#000372",
+          "#ffffff",
+          "#d20000"
+        ],
+        "jersey": "football",
+        "abbrev": "ALL",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930162179343278110/220px-Allen_Wranglers_IFL_team_logo.png",
+        "tid": 23,
+        "cid": 1,
+        "did": 4
+      },
+      "id": 44
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "region": "Amarillo",
+        "name": "Venom",
+        "pop": 1.1,
+        "colors": [
+          "#000000",
+          "#d50000",
+          "#f6dc7a"
+        ],
+        "jersey": "football",
+        "abbrev": "AMA",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/c/c0/AmarilloVenom.png",
+        "tid": 25,
+        "cid": 1,
+        "did": 4
+      },
+      "id": 45
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "region": "Tri-Cities",
+        "name": "Fever",
+        "pop": 1.1,
+        "colors": [
+          "#050063",
+          "#b59f4b",
+          "#303f81"
+        ],
+        "jersey": "football",
+        "abbrev": "TCF",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Tri-Cities_Fever.png/120px-Tri-Cities_Fever.png",
+        "tid": 26,
+        "cid": 1,
+        "did": 3
+      },
+      "id": 46
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "region": "Seattle",
+        "name": "Timberwolves",
+        "pop": 1.1,
+        "colors": [
+          "#7f08cf",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "football",
+        "abbrev": "SEA",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930163044426842182/STT.png",
+        "tid": 27,
+        "cid": 1,
+        "did": 3
+      },
+      "id": 47
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "region": "Richmond",
+        "name": "Revolution",
+        "pop": 1.1,
+        "colors": [
+          "#1300b8",
+          "#ffffff",
+          "#c90000"
+        ],
+        "jersey": "football",
+        "abbrev": "RIC",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930110229801230376/RichmondRevolution.png",
+        "tid": 19,
+        "cid": 0,
+        "did": 2
+      },
+      "id": 48
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "numPlayoffByes": 4
+      },
+      "id": 49
+    },
+    {
+      "type": "contraction",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "tid": 14
+      },
+      "id": 50
+    },
+    {
+      "type": "contraction",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "tid": 16
+      },
+      "id": 51
+    },
+    {
+      "type": "contraction",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "tid": 19
+      },
+      "id": 52
+    },
+    {
+      "type": "contraction",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "tid": 22
+      },
+      "id": 53
+    },
+    {
+      "type": "contraction",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "tid": 25
+      },
+      "id": 54
+    },
+    {
+      "type": "contraction",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "tid": 31
+      },
+      "id": 55
+    },
+    {
+      "type": "contraction",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "tid": 33
+      },
+      "id": 56
+    },
+    {
+      "type": "contraction",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "tid": 34
+      },
+      "id": 57
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "confs": [
+          {
+            "cid": 0,
+            "name": "United"
+          },
+          {
+            "cid": 1,
+            "name": "Intense"
+          }
+        ],
+        "divs": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": ""
+          },
+          {
+            "cid": 1,
+            "did": 1,
+            "name": ""
+          }
+        ]
+      },
+      "id": 58
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2011,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Cedar Rapids",
+            "name": "Titans",
+            "pop": 1.1,
+            "colors": [
+              "#4402ff",
+              "#ffffff",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "CRT",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930167045599952916/Cedar_Rapids_Titans.PNG.png",
+            "tid": 35,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "New Mexico",
+            "name": "Stars",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#a9a9a9",
+              "#f00000"
+            ],
+            "jersey": "football",
+            "abbrev": "NMS",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930167591274676283/download.png",
+            "tid": 36,
+            "cid": 1,
+            "did": 1
+          }
+        ]
+      },
+      "id": 59
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 5,
+        "region": "Omaha",
+        "name": "Beef",
+        "abbrev": "OMA",
+        "colors": [
+          "#ff5900",
+          "#4e2109",
+          "#4e2109"
+        ],
+        "imgURL": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/276300/20181010233911_765_mascot720Near.png"
+      },
+      "id": 60
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 6,
+        "region": "Bloomington",
+        "name": "Edge",
+        "abbrev": "BLO",
+        "colors": [
+          "#db0000",
+          "#ffffff",
+          "#002185"
+        ],
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/BloomingtonEdge.PNG/120px-BloomingtonEdge.PNG"
+      },
+      "id": 61
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 1,
+        "tid": 7,
+        "region": "Wichita",
+        "name": "Wild",
+        "abbrev": "WIC",
+        "colors": [
+          "#ff7300",
+          "#ffffff",
+          "#000000"
+        ],
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/WichitaWild.PNG/120px-WichitaWild.PNG"
+      },
+      "id": 62
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "cid": 0,
+        "did": 0,
+        "tid": 8,
+        "region": "Sioux Falls",
+        "name": "Storm",
+        "abbrev": "SFS",
+        "colors": [
+          "#00187a",
+          "#ffffff",
+          "#db0000"
+        ],
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sioux_Falls_Storm_logo.png/120px-Sioux_Falls_Storm_logo.png"
+      },
+      "id": 63
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "cid": 1,
+        "did": 1,
+        "tid": 17,
+        "region": "Colorado",
+        "name": "Ice",
+        "abbrev": "COL",
+        "colors": [
+          "#001a66",
+          "#ffffff",
+          "#0092d1"
+        ],
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930104182726357033/ColoradoIce.PNG.png"
+      },
+      "id": 64
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "region": "Green Bay",
+        "name": "Blizzard",
+        "pop": 1.1,
+        "colors": [
+          "#055713",
+          "#ffffff",
+          "#ffffff"
+        ],
+        "jersey": "football",
+        "abbrev": "GBB",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/GreenBayBlizzard.png/120px-GreenBayBlizzard.png",
+        "tid": 20,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 65
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "region": "Chicago",
+        "name": "Slaughter",
+        "pop": 1.1,
+        "colors": [
+          "#000000",
+          "#ce0000",
+          "#ffffff"
+        ],
+        "jersey": "football",
+        "abbrev": "CHI",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930111156926967868/120px-ChicagoSlaughter.png",
+        "tid": 21,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 66
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "region": "Allen",
+        "name": "Wranglers",
+        "pop": 1.1,
+        "colors": [
+          "#000372",
+          "#ffffff",
+          "#d20000"
+        ],
+        "jersey": "football",
+        "abbrev": "ALL",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930162179343278110/220px-Allen_Wranglers_IFL_team_logo.png",
+        "tid": 23,
+        "cid": 1,
+        "did": 1
+      },
+      "id": 67
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "region": "Tri-Cities",
+        "name": "Fever",
+        "pop": 1.1,
+        "colors": [
+          "#050063",
+          "#b59f4b",
+          "#303f81"
+        ],
+        "jersey": "football",
+        "abbrev": "TCF",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Tri-Cities_Fever.png/120px-Tri-Cities_Fever.png",
+        "tid": 26,
+        "cid": 1,
+        "did": 1
+      },
+      "id": 68
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "region": "Everett",
+        "name": "Raptors",
+        "pop": 1.1,
+        "colors": [
+          "#0005a7",
+          "#f60000",
+          "#f1d98b"
+        ],
+        "jersey": "football",
+        "abbrev": "EVE",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930173116842397696/EverettRaptors.png",
+        "tid": 27,
+        "cid": 1,
+        "did": 1
+      },
+      "id": 69
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "region": "Nebraska",
+        "name": "Danger",
+        "pop": 1.1,
+        "colors": [
+          "#00cf29",
+          "#07008e",
+          "#ffffff"
+        ],
+        "jersey": "football",
+        "abbrev": "NEB",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/NebDanger.png/120px-NebDanger.png",
+        "tid": 28,
+        "cid": 1,
+        "did": 1
+      },
+      "id": 70
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "region": "Reading",
+        "name": "Express",
+        "pop": 1.1,
+        "colors": [
+          "#000d3d",
+          "#ffffff",
+          "#afafaf"
+        ],
+        "jersey": "football",
+        "abbrev": "REA",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930156234601005066/ReadingExpress.png",
+        "tid": 29,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 71
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "region": "Lehigh Valley",
+        "name": "Steelhawks",
+        "pop": 1.1,
+        "colors": [
+          "#000000",
+          "#f1d157",
+          "#f1d157"
+        ],
+        "jersey": "football",
+        "abbrev": "LVS",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930157030973505556/LehighValleySteelhawks.png",
+        "tid": 30,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 72
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "region": "Wyoming",
+        "name": "Cavalry",
+        "pop": 1.1,
+        "colors": [
+          "#000370",
+          "#ffffff",
+          "#eee991"
+        ],
+        "jersey": "football",
+        "abbrev": "WYO",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WyomingCavalry.PNG/120px-WyomingCavalry.PNG",
+        "tid": 32,
+        "cid": 1,
+        "did": 1
+      },
+      "id": 73
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1
+        ],
+        "numPlayoffByes": 0
+      },
+      "id": 74
+    },
+    {
+      "type": "contraction",
+      "season": 2012,
+      "phase": 4,
+      "info": {
+        "tid": 5
+      },
+      "id": 75
+    },
+    {
+      "type": "contraction",
+      "season": 2012,
+      "phase": 4,
+      "info": {
+        "tid": 6
+      },
+      "id": 76
+    },
+    {
+      "type": "contraction",
+      "season": 2012,
+      "phase": 4,
+      "info": {
+        "tid": 7
+      },
+      "id": 77
+    },
+    {
+      "type": "contraction",
+      "season": 2012,
+      "phase": 4,
+      "info": {
+        "tid": 29
+      },
+      "id": 78
+    },
+    {
+      "type": "contraction",
+      "season": 2012,
+      "phase": 4,
+      "info": {
+        "tid": 30
+      },
+      "id": 79
+    },
+    {
+      "type": "contraction",
+      "season": 2012,
+      "phase": 4,
+      "info": {
+        "tid": 36
+      },
+      "id": 80
+    },
+    {
+      "type": "contraction",
+      "season": 2012,
+      "phase": 4,
+      "info": {
+        "tid": 27
+      },
+      "id": 81
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "info": {
+        "region": "Texas",
+        "name": "Revolution",
+        "pop": 1.1,
+        "colors": [
+          "#000372",
+          "#bababa",
+          "#d20000"
+        ],
+        "jersey": "football",
+        "abbrev": "TEX",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/f/f0/TexasRevslogo.png",
+        "tid": 23,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 82
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2013,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1
+        ],
+        "numPlayoffByes": 0
+      },
+      "id": 83
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2013,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Bemidji",
+            "name": "Axemen",
+            "pop": 1.1,
+            "colors": [
+              "#ef0000",
+              "#ffffff",
+              "#040090"
+            ],
+            "jersey": "football",
+            "abbrev": "BEM",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/BemidjiAxemen.png/120px-BemidjiAxemen.png",
+            "tid": 37,
+            "cid": 0,
+            "did": 0
+          }
+        ]
+      },
+      "id": 84
+    },
+    {
+      "type": "contraction",
+      "season": 2014,
+      "phase": 4,
+      "info": {
+        "tid": 21
+      },
+      "id": 85
+    },
+    {
+      "type": "contraction",
+      "season": 2014,
+      "phase": 4,
+      "info": {
+        "tid": 23
+      },
+      "id": 86
+    },
+    {
+      "type": "contraction",
+      "season": 2014,
+      "phase": 4,
+      "info": {
+        "tid": 32
+      },
+      "id": 87
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2014,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Billings",
+            "name": "Wolves",
+            "pop": 1.1,
+            "colors": [
+              "#ef0000",
+              "#000000",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "BIW",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930184260785176636/Billings_Wolves_IFL_logo.png",
+            "tid": 38,
+            "cid": 1,
+            "did": 1
+          },
+          {
+            "region": "Wichita Falls",
+            "name": "Nighthawks",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ffe11b",
+              "#ffe11b"
+            ],
+            "jersey": "football",
+            "abbrev": "WFN",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930184813451812884/Wichita_Falls_Nighthawks_Logo.png",
+            "tid": 39,
+            "cid": 1,
+            "did": 1
+          },
+          {
+            "region": "Iowa",
+            "name": "Barnstormers",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ffe11b",
+              "#ff1b1b"
+            ],
+            "jersey": "football",
+            "abbrev": "IOW",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Iowa_Barnstormers_Logo.png/120px-Iowa_Barnstormers_Logo.png",
+            "tid": 40,
+            "cid": 0,
+            "did": 0
+          }
+        ]
+      },
+      "id": 88
+    },
+    {
+      "type": "contraction",
+      "season": 2015,
+      "phase": 4,
+      "info": {
+        "tid": 37
+      },
+      "id": 89
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2015,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Spokane",
+            "name": "Empire",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ff5006",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "SPO",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930186889024139294/empire_logo.png",
+            "tid": 41,
+            "cid": 1,
+            "did": 1
+          }
+        ]
+      },
+      "id": 90
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2016,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1
+        ],
+        "numPlayoffByes": 2
+      },
+      "id": 91
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "info": {
+        "region": "Wichita Falls",
+        "name": "Nighthawks",
+        "pop": 1.1,
+        "colors": [
+          "#000000",
+          "#ffe11b",
+          "#ffe11b"
+        ],
+        "jersey": "football",
+        "abbrev": "WFN",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930184813451812884/Wichita_Falls_Nighthawks_Logo.png",
+        "tid": 39,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 92
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "info": {
+        "region": "Colorado",
+        "name": "Crush",
+        "pop": 1.1,
+        "colors": [
+          "#040091",
+          "#bababa",
+          "#f65c00"
+        ],
+        "jersey": "football",
+        "abbrev": "COL",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/e/eb/ColoradoCrush.png",
+        "tid": 17,
+        "cid": 1,
+        "did": 1
+      },
+      "id": 93
+    },
+    {
+      "type": "contraction",
+      "season": 2016,
+      "phase": 4,
+      "info": {
+        "tid": 26
+      },
+      "id": 94
+    },
+    {
+      "type": "contraction",
+      "season": 2016,
+      "phase": 4,
+      "info": {
+        "tid": 38
+      },
+      "id": 95
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2016,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Arizona",
+            "name": "Rattlers",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ff5006",
+              "#00f3ef"
+            ],
+            "jersey": "football",
+            "abbrev": "ARZ",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/ArizonaRattlers.PNG/120px-ArizonaRattlers.PNG",
+            "tid": 42,
+            "cid": 1,
+            "did": 1
+          },
+          {
+            "region": "Salt Lake",
+            "name": "Screaming Eagles",
+            "pop": 1.1,
+            "colors": [
+              "#050cff",
+              "#de0000",
+              "#de0000"
+            ],
+            "jersey": "football",
+            "abbrev": "SAL",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/SL_Eagles.png/120px-SL_Eagles.png",
+            "tid": 43,
+            "cid": 1,
+            "did": 1
+          }
+        ]
+      },
+      "id": 96
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2017,
+      "phase": 4,
+      "info": {
+        "confs": [
+          {
+            "cid": 0,
+            "name": " "
+          }
+        ],
+        "divs": [
+          {
+            "cid": 0,
+            "did": 0,
+            "name": " "
+          }
+        ]
+      },
+      "id": 97
+    },
+    {
+      "type": "contraction",
+      "season": 2017,
+      "phase": 4,
+      "info": {
+        "tid": 17
+      },
+      "id": 98
+    },
+    {
+      "type": "contraction",
+      "season": 2017,
+      "phase": 4,
+      "info": {
+        "tid": 39
+      },
+      "id": 99
+    },
+    {
+      "type": "contraction",
+      "season": 2017,
+      "phase": 4,
+      "info": {
+        "tid": 41
+      },
+      "id": 100
+    },
+    {
+      "type": "contraction",
+      "season": 2017,
+      "phase": 4,
+      "info": {
+        "tid": 43
+      },
+      "id": 101
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "region": "Nebraska",
+        "name": "Danger",
+        "pop": 1.1,
+        "colors": [
+          "#00cf29",
+          "#07008e",
+          "#ffffff"
+        ],
+        "jersey": "football",
+        "abbrev": "NEB",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/NebDanger.png/120px-NebDanger.png",
+        "tid": 28,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 102
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "region": "Arizona",
+        "name": "Rattlers",
+        "pop": 1.1,
+        "colors": [
+          "#000000",
+          "#ff5006",
+          "#00f3ef"
+        ],
+        "jersey": "football",
+        "abbrev": "ARZ",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/ArizonaRattlers.PNG/120px-ArizonaRattlers.PNG",
+        "tid": 42,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 103
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "region": "Sioux Falls",
+        "name": "Storm",
+        "pop": 1.1,
+        "colors": [
+          "#00187a",
+          "#ffffff",
+          "#db0000"
+        ],
+        "jersey": "football",
+        "abbrev": "SFS",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sioux_Falls_Storm_logo.png/120px-Sioux_Falls_Storm_logo.png",
+        "tid": 8,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 104
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "region": "Green Bay",
+        "name": "Blizzard",
+        "pop": 1.1,
+        "colors": [
+          "#055713",
+          "#ffffff",
+          "#ffffff"
+        ],
+        "jersey": "football",
+        "abbrev": "GBB",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/GreenBayBlizzard.png/120px-GreenBayBlizzard.png",
+        "tid": 20,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 105
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "region": "Cedar Rapids",
+        "name": "Titans",
+        "pop": 1.1,
+        "colors": [
+          "#4402ff",
+          "#ffffff",
+          "#ffffff"
+        ],
+        "jersey": "football",
+        "abbrev": "CRT",
+        "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930167045599952916/Cedar_Rapids_Titans.PNG.png",
+        "tid": 35,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 106
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "region": "Iowa",
+        "name": "Barnstormers",
+        "pop": 1.1,
+        "colors": [
+          "#000000",
+          "#ffe11b",
+          "#ff1b1b"
+        ],
+        "jersey": "football",
+        "abbrev": "IOW",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Iowa_Barnstormers_Logo.png/120px-Iowa_Barnstormers_Logo.png",
+        "tid": 40,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 107
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1
+        ],
+        "numPlayoffByes": 0
+      },
+      "id": 108
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2018,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Tuscon",
+            "name": "Sugar Skulls",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ffeb06",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "TUS",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/TucsonSugarSkullsLogo.PNG/120px-TucsonSugarSkullsLogo.PNG",
+            "tid": 44,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Quad City",
+            "name": "Steamwheelers",
+            "pop": 1.1,
+            "colors": [
+              "#001f75",
+              "#dbd489",
+              "#d00000"
+            ],
+            "jersey": "football",
+            "abbrev": "QCS",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/QuadCitySteamwheelers.png/120px-QuadCitySteamwheelers.png",
+            "tid": 45,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Bismark",
+            "name": "Bucks",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ff6509",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "BIS",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/BismarckBucks.png/120px-BismarckBucks.png",
+            "tid": 46,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "San Diego",
+            "name": "Strike Force",
+            "pop": 1.1,
+            "colors": [
+              "#2c6b2f",
+              "#000000",
+              "#ffc60c"
+            ],
+            "jersey": "football",
+            "abbrev": "SDS",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SDStrikeForce.png/120px-SDStrikeForce.png",
+            "tid": 47,
+            "cid": 0,
+            "did": 0
+          }
+        ]
+      },
+      "id": 109
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2019,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1
+        ],
+        "numPlayoffByes": 2
+      },
+      "id": 110
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "info": {
+        "region": "Cedar Rapids",
+        "name": "River Kings",
+        "pop": 1.1,
+        "colors": [
+          "#0a97ff",
+          "#c8c8c8",
+          "#ffe11b"
+        ],
+        "jersey": "football",
+        "abbrev": "CED",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/CRRiverKings.png/120px-CRRiverKings.png",
+        "tid": 35,
+        "cid": 0,
+        "did": 0
+      },
+      "id": 111
+    },
+    {
+      "type": "contraction",
+      "season": 2019,
+      "phase": 4,
+      "info": {
+        "tid": 28
+      },
+      "id": 112
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2019,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Duke City",
+            "name": "Gladiators",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ffffff",
+              "#23c4ff"
+            ],
+            "jersey": "football",
+            "abbrev": "DCG",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Duke_City_Gladiators_CIF_logo.png/120px-Duke_City_Gladiators_CIF_logo.png",
+            "tid": 48,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Oakland",
+            "name": "Panthers",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ffffff",
+              "#675a38"
+            ],
+            "jersey": "football",
+            "abbrev": "OAK",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930197455373492255/9301e958-4d7d-4636-a3fe-8442828513ad_1234251_TABLET_LANDSCAPE_LARGE_16_9.png",
+            "tid": 50,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Frisco",
+            "name": "Fighters",
+            "pop": 1.1,
+            "colors": [
+              "#002e61",
+              "#ffffff",
+              "#fe7900"
+            ],
+            "jersey": "football",
+            "abbrev": "FRI",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FriscoFighters.png/120px-FriscoFighters.png",
+            "tid": 49,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Spokane",
+            "name": "Shock",
+            "pop": 1.1,
+            "colors": [
+              "#f76300",
+              "#002772",
+              "#ffffff"
+            ],
+            "jersey": "football",
+            "abbrev": "SPO",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930198109533921350/Spokane_Shock_Logo.png",
+            "tid": 41,
+            "cid": 0,
+            "did": 0
+          }
+        ]
+      },
+      "id": 113
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2020,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [],
+        "numPlayoffByes": 0
+      },
+      "id": 114
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2020,
+      "phase": 0,
+      "info": {
+        "numGames": 2
+      },
+      "id": 115
+    },
+    {
+      "type": "contraction",
+      "season": 2020,
+      "phase": 4,
+      "info": {
+        "tid": 49
+      },
+      "id": 116
+    },
+    {
+      "type": "contraction",
+      "season": 2020,
+      "phase": 4,
+      "info": {
+        "tid": 45
+      },
+      "id": 117
+    },
+    {
+      "type": "contraction",
+      "season": 2020,
+      "phase": 4,
+      "info": {
+        "tid": 47
+      },
+      "id": 118
+    },
+    {
+      "type": "contraction",
+      "season": 2020,
+      "phase": 4,
+      "info": {
+        "tid": 35
+      },
+      "id": 119
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2020,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Louisville",
+            "name": "Xtreme",
+            "pop": 1.1,
+            "colors": [
+              "#666666",
+              "#000000",
+              "#ec0000"
+            ],
+            "jersey": "football",
+            "abbrev": "LOU",
+            "imgURL": "https://dbukjj6eu5tsf.cloudfront.net/louxtreme.com/images/responsive/logo_alt.svg",
+            "tid": 51,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Massachusetts",
+            "name": "Pirates",
+            "pop": 1.1,
+            "colors": [
+              "#002173",
+              "#0c9a84",
+              "#d0c797"
+            ],
+            "jersey": "Football",
+            "abbrev": "MAS",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/MassachusettsPirates.png/120px-MassachusettsPirates.png",
+            "tid": 52,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Northern Arizona",
+            "name": "Wranglers",
+            "pop": 1.1,
+            "colors": [
+              "#f20000",
+              "#aaaaaa",
+              "#0022da"
+            ],
+            "jersey": "Football",
+            "abbrev": "NAZ",
+            "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930200734950113280/120px-NAZWranglers.png",
+            "tid": 53,
+            "cid": 0,
+            "did": 0
+          }
+        ]
+      },
+      "id": 120
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2021,
+      "phase": 0,
+      "info": {
+        "numGamesPlayoffSeries": [
+          1,
+          1,
+          1
+        ],
+        "numPlayoffByes": 0
+      },
+      "id": 121
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2021,
+      "phase": 0,
+      "info": {
+        "numGames": 14
+      },
+      "id": 122
+    },
+    {
+      "type": "contraction",
+      "season": 2021,
+      "phase": 4,
+      "info": {
+        "tid": 51
+      },
+      "id": 123
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2021,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Quad City",
+            "name": "Steamwheelers",
+            "pop": 1.1,
+            "colors": [
+              "#001f75",
+              "#dbd489",
+              "#d00000"
+            ],
+            "jersey": "football",
+            "abbrev": "QCS",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/QuadCitySteamwheelers.png/120px-QuadCitySteamwheelers.png",
+            "tid": 45,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "San Diego",
+            "name": "Strike Force",
+            "pop": 1.1,
+            "colors": [
+              "#2c6b2f",
+              "#000000",
+              "#ffc60c"
+            ],
+            "jersey": "football",
+            "abbrev": "SDS",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SDStrikeForce.png/120px-SDStrikeForce.png",
+            "tid": 47,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Bay Area",
+            "name": "Panthers",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#ffffff",
+              "#675a38"
+            ],
+            "jersey": "football",
+            "abbrev": "BAP",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Bay_Area_Panthers.png/120px-Bay_Area_Panthers.png",
+            "tid": 49,
+            "cid": 0,
+            "did": 0
+          },
+          {
+            "region": "Vegas",
+            "name": "Knight Hawks",
+            "pop": 1.1,
+            "colors": [
+              "#000000",
+              "#d60000",
+              "#d3ac47"
+            ],
+            "jersey": "football",
+            "abbrev": "VKH",
+            "imgURL": "https://www.oursportscentral.com/graphics/teams/ifl_vegas_knighthawks21.png",
+            "tid": 54,
+            "cid": 0,
+            "did": 0
+          }
+        ]
+      },
+      "id": 124
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2022,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Columbus",
+            "name": "Wild Dogs",
+            "pop": 1.1,
+            "colors": [
+              "#f70000",
+              "#ffffff",
+              "#dbd489"
+            ],
+            "jersey": "football",
+            "abbrev": "CWD",
+            "imgURL": "https://dbukjj6eu5tsf.cloudfront.net/columbuswilddogs.com/images/responsive/logo_alt.svg",
+            "tid": 55,
+            "cid": 0,
+            "did": 0
+          }
+        ]
+      },
+      "id": 125
+    }
+  ],
+  "teams": [
+    {
+      "tid": 0,
+      "abbrev": "MAR",
+      "region": "Maryland",
+      "name": "Maniacs",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930096358956879882/MarylandManiacs.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#d60000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 1,
+      "abbrev": "ROC",
+      "region": "Rochester",
+      "name": "Raiders",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930096754358108240/RochesterRaiders.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#b8b8b8"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 2,
+      "abbrev": "RC",
+      "region": "RiverCity",
+      "name": "Rage",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930097290503409694/RCRage.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#bd0000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 3,
+      "abbrev": "SAG",
+      "region": "Saginaw",
+      "name": "Sting",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930097820936048690/532_saginaw-sting-primary-2009.png",
+      "colors": [
+        "#094d00",
+        "#ff5900",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 4,
+      "abbrev": "MUS",
+      "region": "Muskegon",
+      "name": "Thunder",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930098549885120562/MUT.png",
+      "colors": [
+        "#0aadff",
+        "#ffffff",
+        "#00058a"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 5,
+      "abbrev": "OMA",
+      "region": "Omaha",
+      "name": "Beef",
+      "imgURL": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/276300/20181010233911_765_mascot720Near.png",
+      "colors": [
+        "#ff5900",
+        "#4e2109",
+        "#4e2109"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 6,
+      "abbrev": "BLO",
+      "region": "Bloomington",
+      "name": "Extreme",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930099896923603024/BloomingtonExtreme.PNG.png",
+      "colors": [
+        "#db0000",
+        "#ffffff",
+        "#002185"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 7,
+      "abbrev": "WIC",
+      "region": "Wichita",
+      "name": "Wild",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/WichitaWild.PNG/120px-WichitaWild.PNG",
+      "colors": [
+        "#ff7300",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 8,
+      "abbrev": "SFS",
+      "region": "Sioux Falls",
+      "name": "Storm",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sioux_Falls_Storm_logo.png/120px-Sioux_Falls_Storm_logo.png",
+      "colors": [
+        "#00187a",
+        "#ffffff",
+        "#db0000"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 9,
+      "abbrev": "SCB",
+      "region": "Sioux City",
+      "name": "Bandits",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/SiouxCityBandits21.png/120px-SiouxCityBandits21.png",
+      "colors": [
+        "#000000",
+        "#d10000",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 10,
+      "abbrev": "EPG",
+      "region": "El Paso",
+      "name": "Generals",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930100779312893952/ElPasoGenerals.PNG.png",
+      "colors": [
+        "#000000",
+        "#007517",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 11,
+      "abbrev": "ABI",
+      "region": "Abilene",
+      "name": "Ruff Riders",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930101308353028096/AbileneRuffRiders.PNG.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#cc0000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 12,
+      "abbrev": "SAS",
+      "region": "San Angelo",
+      "name": "Stampede Express",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930101893261328454/StampedeExpress.png",
+      "colors": [
+        "#ffd500",
+        "#000000",
+        "#572f0a"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 13,
+      "abbrev": "CCH",
+      "region": "Corpus Christi",
+      "name": "Hammerheads",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930102545588842546/maxresdefault.png",
+      "colors": [
+        "#c70000",
+        "#ffffff",
+        "#000e57"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 14,
+      "abbrev": "ODE",
+      "region": "Odessa",
+      "name": "Roughnecks",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930102979711885352/ODR.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#002b8f"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 15,
+      "abbrev": "BIL",
+      "region": "Billings",
+      "name": "Outlaws",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930103432608632832/Billings_Outlaws.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#0007d1"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 16,
+      "abbrev": "FAI",
+      "region": "Fairbanks",
+      "name": "Grizzlies",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930103857487437834/Fairbanks_Grizzlies_logo.png",
+      "colors": [
+        "#ff7300",
+        "#ffffff",
+        "#000ba3"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 17,
+      "abbrev": "COL",
+      "region": "Colorado",
+      "name": "Ice",
+      "imgURL": "https://cdn.discordapp.com/attachments/749251989426143353/930104182726357033/ColoradoIce.PNG.png",
+      "colors": [
+        "#001a66",
+        "#ffffff",
+        "#0092d1"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    },
+    {
+      "tid": 18,
+      "abbrev": "ALA",
+      "region": "Alaska",
+      "name": "Wild",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/AlaskaWild.PNG/120px-AlaskaWild.PNG",
+      "colors": [
+        "#b80000",
+        "#000000",
+        "#bababa"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 70000,
+      "disabled": false
+    }
+  ],
+  "gameAttributes": {
+    "aiJerseyRetirement": true,
+    "aiTradesFactor": 1,
+    "allStarGame": null,
+    "autoDeleteOldBoxScores": true,
+    "blockFactor": 1,
+    "brotherRate": 0.007,
+    "budget": true,
+    "challengeFiredLuxuryTax": false,
+    "challengeFiredMissPlayoffs": false,
+    "challengeLoseBestPlayer": false,
+    "challengeNoDraftPicks": false,
+    "challengeNoFreeAgents": false,
+    "challengeNoRatings": false,
+    "challengeNoTrades": false,
+    "challengeThanosMode": false,
+    "confs": [
+      {
+        "cid": 0,
+        "name": "United Conference"
+      },
+      {
+        "cid": 1,
+        "name": "Intense Conference"
+      }
+    ],
+    "daysLeft": 0,
+    "defaultStadiumCapacity": 70000,
+    "difficulty": 0,
+    "divs": [
+      {
+        "did": 0,
+        "cid": 0,
+        "name": "Atlantic"
+      },
+      {
+        "did": 1,
+        "cid": 0,
+        "name": "Central"
+      },
+      {
+        "did": 2,
+        "cid": 1,
+        "name": "Lone Star"
+      },
+      {
+        "did": 3,
+        "cid": 1,
+        "name": "Pacific"
+      }
+    ],
+    "draftAges": [
+      20,
+      25
+    ],
+    "draftType": "noLottery",
+    "elam": false,
+    "elamASG": true,
+    "elamMinutes": 4,
+    "elamPoints": 8,
+    "equalizeRegions": false,
+    "expansionDraft": {
+      "phase": "setup"
+    },
+    "fantasyPoints": "standard",
+    "forceRetireAge": 0,
+    "foulRateFactor": 1,
+    "foulsNeededToFoulOut": 6,
+    "foulsUntilBonus": [
+      5,
+      4,
+      2
+    ],
+    "gameOver": false,
+    "godMode": false,
+    "godModeInPast": false,
+    "gracePeriodEnd": 2011,
+    "hardCap": true,
+    "hideDisabledTeams": false,
+    "hofFactor": 1.25,
+    "homeCourtAdvantage": 1,
+    "inflationAvg": 0,
+    "inflationMax": 0,
+    "inflationMin": 0,
+    "inflationStd": 0,
+    "injuryRate": 0.002,
+    "lowestDifficulty": 0,
+    "luxuryPayroll": 100000,
+    "luxuryTax": 1.5,
+    "maxContract": 30,
+    "maxContractLength": 5,
+    "maxRosterSize": 27,
+    "minContract": 10,
+    "minContractLength": 1,
+    "minPayroll": 200,
+    "minRosterSize": 23,
+    "numDraftRounds": 3,
+    "numGames": 14,
+    "numGamesConf": null,
+    "numGamesDiv": null,
+    "numGamesPlayoffSeries": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "numPeriods": 4,
+    "numPlayersDunk": 4,
+    "numPlayersOnCourt": 11,
+    "numPlayersThree": 8,
+    "numPlayoffByes": 4,
+    "numSeasonsFutureDraftPicks": 0,
+    "orbFactor": 1,
+    "otherTeamsWantToHire": false,
+    "otl": false,
+    "pace": 100,
+    "phase": 0,
+    "playIn": false,
+    "playerMoodTraits": true,
+    "playersRefuseToNegotiate": true,
+    "playoffsByConf": true,
+    "playoffsNumTeamsDiv": 1,
+    "playoffsReseed": true,
+    "pointsFormula": "",
+    "quarterLength": 15,
+    "realPlayerDeterminism": 0,
+    "rookieContractLengths": [
+      3,
+      2
+    ],
+    "rookiesCanRefuse": true,
+    "salaryCap": 430,
+    "season": 2009,
+    "sonRate": 0.007,
+    "spectator": false,
+    "startingSeason": 2009,
+    "stealFactor": 1,
+    "stopOnInjury": false,
+    "stopOnInjuryGames": 1,
+    "threePointAccuracyFactor": 1,
+    "threePointTendencyFactor": 1,
+    "threePointers": true,
+    "tiebreakers": [
+      "headToHeadRecord",
+      "divRecordIfSame",
+      "commonOpponentsRecord",
+      "confRecordIfSame",
+      "strengthOfVictory",
+      "strengthOfSchedule",
+      "marginOfVictory",
+      "coinFlip"
+    ],
+    "ties": true,
+    "tradeDeadline": 0.6,
+    "tragicDeathRate": 0.001,
+    "turnoverFactor": 1,
+    "twoPointAccuracyFactor": 1,
+    "userTid": [
+      {
+        "start": null,
+        "value": 17
+      }
+    ],
+    "userTids": [
+      17
+    ]
+  }
+}
